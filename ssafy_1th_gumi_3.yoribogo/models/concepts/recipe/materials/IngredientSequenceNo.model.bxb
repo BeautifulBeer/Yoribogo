@@ -1,3 +1,0 @@
-integer (IngredientSequenceNo) {
-  description (IRDNT_SN)
-}
