@@ -15,14 +15,14 @@ action (WrapBoundaryOption) {
         }   
       }
     }
-    input (upperBoundKeyword) {
-      type (UpperBoundKeyword)
-      min (Optional) max (One)
-    }
-    input (lowerBoundKeyword) {
-      type (LowerBoundKeyword)
-      min (Optional) max (One)
-    } 
+    // input (upperBoundKeyword) {
+    //   type (UpperBoundKeyword)
+    //   min (Optional) max (One)
+    // }
+    // input (lowerBoundKeyword) {
+    //   type (LowerBoundKeyword)
+    //   min (Optional) max (One)
+    // } 
   }
   output (BoundOption)
 }
