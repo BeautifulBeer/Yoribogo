@@ -1,0 +1,20 @@
+train (t-vsk81pdhnuttb3jvmt03ac1fj) {
+  utterance ([g:GuideStructure] 설명 좀 해줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709670389)
+}
+train (t-vsvpf8d01uaenas6lfedj41o7) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (김치)[v:Ingredient]랑 (가쓰오부시)[v:Ingredient]랑 (쑥갓)[v:Ingredient]이랑 (쇠고기)[v:Ingredient]를 써서 만들 수 있는 (음식)[v:RecipeKeyword:레시피]이 뭐야")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1566714030192)
+}
+train (t-vtrfp07qjafsanmp94pnpe3sk) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (닭고기콩나물덮밥)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] 검색해")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1566709463761)
+}
+train (t-vvqrvenq7m6bqeqxleqjmsxb3) {
+  utterance ([g:GuideStructure] 활용방법 알려줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709726739)
+}

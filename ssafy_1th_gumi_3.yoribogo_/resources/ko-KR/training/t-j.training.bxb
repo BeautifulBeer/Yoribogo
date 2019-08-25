@@ -1,0 +1,10 @@
+train (t-j364f46jzzwkdz6f4l35chzj3) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (그다음)[v:LayoutType:다음]으로")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716062216)
+}
+train (t-jz3bt3kw38vctk9t7sjrvu4xe) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (700)[v:UpperBound] 칼로리 보다 낮은 (음식)[v:RecipeKeyword:레시피] 보여줘")
+  plan (jY+9CsJAEIQn/sT4GIqFNgH1DRQrC8EgluFMNskVyR2XO0wan938IVicWOzCDN/MsphjXZYsqcOtzsLU5Dzc+w9eUeKfKlIRLynQykTaKMLGQh5FnnN9pYhLCoipKLOW9lAfCDTTZCUPlPLiq3NpI4Up4ovUXBRY/bx7pvopVGx95K6Y7NqYqofC3d/o6zFILCyZm5SkuhA8OBhhjAmmcDFrNAan9VrH6Rx8NhrSacZrCBd4Aw==)
+  last-modified (1566709478033)
+}

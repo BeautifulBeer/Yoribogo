@@ -1,0 +1,35 @@
+train (t-e7tp37bqbec1h86vbkwpqxqpp) {
+  utterance ("[g:CommitRecipeSearch:continue,r:UpdateRecipeSearch] {[g:AddIngredient] (파마산)[v:Ingredient]} (추가해줘)[v:AddKeyword:추가해줘]")
+  plan (nYw9C8IwEIav9kt/huCgS6H0F4g4iJvFudTk2mZIW5ILtou/3dgquATEgxvuufd9YAVbrctqLFJqitpIUWTJTQxYJccBFRMac1KGkVEIO0fy0Ekp6IJM9JhjqVjjlM6huZBTSW7ptef2/ac0/Vn6MBPSsHFU9pyf2lohF9gSrN2pM473TnFn5MuyBA8W4EMAIUQQ2xvexLfkxbyJfCawG9o7tv9oakdP)
+  last-modified (1566709483197)
+}
+train (t-e9l11gry6wi175bf4equcb2up) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (가쓰오부시)[v:Ingredient]랑 (오트밀)[v:Ingredient]을 이용한 (레시피)[v:RecipeKeyword:레시피] 찾아줘")
+  plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)
+  last-modified (1566709293275)
+}
+train (t-ee7b79o9gmepwfyeu77nkev30) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (뒤로)[v:LayoutType:이전] 가줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716066860)
+}
+train (t-emxj6xdzy39ysfqu9lwt99j44) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (앞으로)[v:LayoutType:다음] 넘겨줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716307153)
+}
+train (t-epqudpr8ojcy5jhnirwgsnbe3) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (이전)[v:LayoutType:이전]에 꺼 보여줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716092702)
+}
+train (t-eq9jdeu5bndy87qlyt8mcmlal) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (불고기 찹쌀 구이)[v:RecipeName] (조리법)[v:RecipeKeyword:레시피] 검색해줘")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1566709466709)
+}
+train (t-err0s9y0obslgh6fuyxwpgqqi) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (이전)[v:LayoutType:이전] 화면으로")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716178093)
+}

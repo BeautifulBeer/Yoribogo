@@ -1,0 +1,20 @@
+train (t-22yalv98g2dw1lx2p4vpj84yx) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (다음)[v:LayoutType:다음]")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566715785663)
+}
+train (t-246i19caygk548abiidlpjjo2) {
+  utterance ([g:GuideStructure] 활용법 알려줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709726202)
+}
+train (t-2alz7yw7f0n6x3h1hgyua57i9) {
+  utterance ([g:GuideStructure] 무슨 기능이 있니)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709680109)
+}
+train (t-2r57je1h9gqpvn25d1mmaat5h) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (400)[v:LowerBound] 부터 (600)[v:UpperBound] 까지 알려줘")
+  plan (jc5BC4IwFAfwV6bVx6hTXYTqGxTdgiCJjjLnU99BN+ZGeumzt9QCD4MGg/cfv/9jsIRNXbOsjXe6iHNTUnwIE2owC88NKk41RloZro1C2DrkSZQl6RtykhghU7xwLu1RX4g00+iUR8ypGu1cu6QwVXqVmkTl/OJDMdk5ptqB7v+mr2SIsHJ0LuKJqis5yV3KL1nABKbgwQx8CGBuM4xeApvgd/vj2/kjPTvBGw==)
+  last-modified (1566709475836)
+}

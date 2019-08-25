@@ -1,3 +1,7 @@
-text (LayoutType) {
+enum (LayoutType) {
   description (레이아웃 타입)
+
+  symbol (이전)
+  symbol (다음)
+  symbol (상세보기)
 }

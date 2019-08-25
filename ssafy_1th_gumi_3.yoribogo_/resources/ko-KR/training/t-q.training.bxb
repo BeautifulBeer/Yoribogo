@@ -1,0 +1,10 @@
+train (t-q3ayv4y2zx93fda384xg1lv7z) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (사우어크라우트)[v:Ingredient]랑 (춘권피)[v:Ingredient]랑 (누룽지)[v:Ingredient]랑 (열무)[v:Ingredient]랑 (조기)[v:Ingredient]랑 (시금치)[v:Ingredient] (만드는법)[v:RecipeKeyword:레시피] 검색해")
+  plan (3ZBLDoJAEERLEeV3CRMXuCEx3kDjwriTAxAcGpgFYIYhwu1tJfGzGA9gVzrpVF7VohEgbNs0H5KNLpOiq2SyjS6ypzw69KSEbCnWqhO6U4S1gdw3VSX1mYS8UkypEqWxdITGQKxTTUZyR4WsvzqXBvJYF4oySbX+Q2T185EnGm6NyuBjgikszGBjjgUcuPDYxct/y2IPzw0+9BiXXY/zNl8Ot/jM4g4=)
+  last-modified (1566709295844)
+}
+train (t-qhazt8837gfh67pqmpxw6h878) {
+  utterance ([g:GuideStructure] 어떻게 쓰는지 알려줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709594377)
+}

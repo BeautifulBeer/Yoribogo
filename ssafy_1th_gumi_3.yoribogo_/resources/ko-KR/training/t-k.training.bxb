@@ -1,0 +1,15 @@
+train (t-k4remrefswnah2zc9enmf9ce0) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (700)[v:LowerBound]칼로리 이상  보여줘")
+  plan (jY6xDoJADIaLgvgaOulCor6Bxs3ERAZHcpwFOsCR0ouw+OwisDBcYpMm/dLvbwpr2DWNyrrkIEWS25KSU5RSi1l0bZE1NRgLWy2WEfYO82LKkuSBmmqMUbEunEdHaQzEogSd5hlzqmY3ty7T2Op1r4VM5XzxyaoePMXdpB7/Vj/phLBxZG7mjTyEIAQPFrAEHwJY9QQz9gYe+1d+P4X9NgD4Ag==)
+  last-modified (1566709473441)
+}
+train (t-krv2r4we69ehfjvjwnbs49hok) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (김치)[v:Ingredient]랑 (가쓰오부시)[v:Ingredient]랑 (쑥갓)[v:Ingredient]이랑 (쇠고기)[v:Ingredient]로 할 수 있는 (레시피)[v:RecipeKeyword:레시피] 알려줘")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1566714061466)
+}
+train (t-kto62i4qhbu6jcrbvwx7jqyg1) {
+  utterance ([g:GuideStructure] 기능이 뭐야)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709674715)
+}

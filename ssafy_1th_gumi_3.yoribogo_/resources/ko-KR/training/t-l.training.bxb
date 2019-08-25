@@ -1,0 +1,10 @@
+train (t-l5n0ajy4y427qnujw22r1ogwy) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (가재새우)[v:Ingredient]랑 (피클)[v:Ingredient]이랑 (다진양파)[v:Ingredient]랑 (굵은파)[v:Ingredient]랑 (오렌지)[v:Ingredient]랑 (케이퍼)[v:Ingredient] (조리법)[v:RecipeKeyword:레시피] 검색해줘")
+  plan (3ZA9DoJAEIWf4g8glzCx0IbEeAONhbGTAxBcBtiCxSxDhNu7QuJPsR7AeZnmyzevGARY13WSdfGWizhvShnvwqtsKQuPLWkha4pYN4IbTdhYzENVlpIvJOSNIkq0KKylgzQcRJwwWc095VJ9dS4t5knlmlJJiv9QWf185Jm6e6VTLDDCGA4mmGKGOVx48A3Fi7/jGIZ+g488xzPUNw1u3+GZewd4AA==)
+  last-modified (1566709297334)
+}
+train (t-li12nwl37i15u39r20u57vknr) {
+  utterance ([g:GuideStructure] 어떻게 할 수 있어)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709528739)
+}

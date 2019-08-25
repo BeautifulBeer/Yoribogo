@@ -1,0 +1,20 @@
+train (t-r2oi4sqvt3c3a5jh8sfvwbohd) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (넘겨)[v:LayoutType:다음]")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716303781)
+}
+train (t-rncxgp9btfhj2gf0hoyu7uqh4) {
+  utterance ([g:GuideStructure] 가이드 해줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709769449)
+}
+train (t-rrcjqu0l20oribx41p20ic253) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (이전)[v:LayoutType:이전] 화면 보여줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716170982)
+}
+train (t-rzidltesaswby6uj2i3epsk1d) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (300)[v:LowerBound] 이상 (650)[v:UpperBound] 이하 (요리법)[v:RecipeKeyword:레시피] 찾아줘")
+  plan (jY/LCsIwFETHVx/+heJCN4L6B4orBcEiLkvaXtss2oQ0Rbvx201rXbiIGEi4M5yZSzDGvCzZrQ5XOgvTKufhZhnxB92W+wepmJcUaFXFulKEhYXciTzn+kwxlxQQU3FmLX1D70CgmSYruaWUF1+dUxspqiI5Sc1FgdnPvQeq70Il1o9cFZNtG1N1V7j+G31GncTEkjmKO6k2ZEUuUn4QHz30McAQIzhw4RkHnde4jecajfZ+3uY4ZvZMyjecA7wA)
+  last-modified (1566709474347)
+}

@@ -1,0 +1,5 @@
+train (t-h4dvl1srkg8v9gzu3tzex9ax7) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (어묵국)[v:RecipeName] (요리법)[v:RecipeKeyword:레시피] 있을까")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1566709466195)
+}

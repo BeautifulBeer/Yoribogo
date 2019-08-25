@@ -1,0 +1,15 @@
+train (t-377xsijo94e79q3gr1yh3m2yf) {
+  utterance ([g:GuideStructure] 사용법 말해줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709621490)
+}
+train (t-3c58mjt8sndptxel44l4qf3ay) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (프랑크소시지)[v:Ingredient]랑 (연근)[v:Ingredient]이랑 (맛조개)[v:Ingredient]랑 (파래)[v:Ingredient]랑 (상추 잎)[v:Ingredient]이랑 (상추잎)[v:Ingredient] (요리법)[v:RecipeKeyword:레시피] 가르쳐줄래")
+  plan (3ZA9DoJAEIWfoiI/lzCx0IbEeAONhbGTAxBchmULwCxLhNs7SuJPsR7AeZnm5ZuvGIRYNU2a98nGFIlsS5Vso4vqKI8OHWmhGoqNboVpNWFtIfd1WSpzJqGuFFOqRWGVDtBwEJvUkJXckVTVl3NhIY+V1JQpqswfIsufjzxRf6t1hgAjjOFggilmcDGHB59bvPp3HO7w3PAjj/G4ddngscNnR8As7g==)
+  last-modified (1566709296825)
+}
+train (t-3nspwn5wq6eym1jf4l2ffivzp) {
+  utterance ("[g:CommitProcessShow:continue,r:UpdateProcessShow] (상세하게)[v:LayoutType:상세보기] 보여줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566715745355)
+}

@@ -1,0 +1,10 @@
+train (t-t6799hdt5t681bcff7irxx6fe) {
+  utterance ([g:GuideStructure] 사용법 알고싶어)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709626607)
+}
+train (t-tqc7k9rpegg7tfz9gw133pa9q) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (오징어볶음과소면)[v:RecipeName] (음식)[v:RecipeKeyword:레시피] 찾아줘")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1566709464455)
+}

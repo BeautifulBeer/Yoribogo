@@ -1,0 +1,15 @@
+train (t-070t78dd4f8n17qedqtvlpqlg) {
+  utterance ("[g:CommitProcessShow:continue,r:UpdateProcessShow] (상세화면)[v:LayoutType:상세보기]")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566715657099)
+}
+train (t-0jf2438qjsmnowjsrkq14fhg7) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (뒤로)[v:LayoutType:이전]")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716069783)
+}
+train (t-0w7xz3uy9zn3yimnlngvr0pcu) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (이전)[v:LayoutType:이전]거 보여줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716095117)
+}

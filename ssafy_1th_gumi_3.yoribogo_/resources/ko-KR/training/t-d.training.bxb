@@ -1,0 +1,20 @@
+train (t-d88g8jrloib0146jmz2bervdt) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (쇠고기버섯덮밥)[v:RecipeName] (하는법)[v:RecipeKeyword:레시피] 검색해라")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1566709465620)
+}
+train (t-dn6gyr9g8je1z4m2f0g73743y) {
+  utterance ([g:GuideStructure] 사용법 가르쳐 줄래)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709616635)
+}
+train (t-doqkimz99hcbj2ilbn3coniie) {
+  utterance (" [g:CommitRecipeSearch,r:BeginRecipeSearch] (어린잎 샌드위치)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] 궁금해")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1566709470786)
+}
+train (t-dwx87brnndf39oqhdr51ldd9g) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (다음)[v:LayoutType:다음] 꺼 보여줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716065563)
+}

@@ -1,7 +1,7 @@
 endpoints {
   action-endpoints {
     action-endpoint (BeginRecipeSearch) {
-      accepted-inputs (ingredients, recipeName, recipeKeyword, searchKeyword, boundOption)
+      accepted-inputs (ingredients, recipeName, recipeKeyword, boundOption)
       local-endpoint (recipe/BeginRecipeSearch.js)
     }
     action-endpoint (UpdateRecipeSearch) {
@@ -35,17 +35,17 @@ endpoints {
     }
 
     action-endpoint (GetRecipeByName) {
-      accepted-inputs (recipeName, recipeKeyword, searchKeyword)
+      accepted-inputs (recipeName, recipeKeyword)
       local-endpoint (recipe/GetRecipeByName.js)
     }
     
     action-endpoint (GetRecipeByCalories) {
-      accepted-inputs (upperBound, lowerBound, boundOption, recipeKeyword, searchKeyword)
+      accepted-inputs (upperBound, lowerBound, boundOption, recipeKeyword)
       local-endpoint (recipe/GetRecipeByCalories.js)
     }
     
     action-endpoint (WrapBoundaryOption) {
-      accepted-inputs (upperBound, lowerBound, upperBoundKeyword, lowerBoundKeyword)
+      accepted-inputs (upperBound, lowerBound)
       local-endpoint (base/WrapBoundaryOption.js)
     }
     
@@ -55,7 +55,6 @@ endpoints {
     }
     
     action-endpoint (ShowGuideLine) {
-      accepted-inputs (guideKeyword, searchKeyword) 
       local-endpoint (guide/ShowGuideLine.js)
     }
   }

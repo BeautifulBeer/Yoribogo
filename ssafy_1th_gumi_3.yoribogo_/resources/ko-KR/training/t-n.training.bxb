@@ -1,0 +1,10 @@
+train (t-n0nhmijdxg7766wo0fdb1oboj) {
+  utterance ([g:GuideStructure] 활용법 가르쳐줘)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709743064)
+}
+train (t-ne5uc66lneqqyvg65620ubgkg) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (김치)[v:Ingredient]랑 (가쓰오부시)[v:Ingredient]랑 (쑥갓)[v:Ingredient]이랑 (쇠고기)[v:Ingredient]를 이용한 (음식)[v:RecipeKeyword:레시피] 가르쳐줄래")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1566713836774)
+}

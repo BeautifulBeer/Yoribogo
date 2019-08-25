@@ -1,0 +1,25 @@
+train (t-61vjlmqxeycdohu27r2ud5qlr) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (그다음)[v:LayoutType:다음]")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716306001)
+}
+train (t-67nos47ujebusgpjqrqxdkgpt) {
+  utterance ("[g:CommitProcessShow:continue,r:UpdateProcessShow] (상세보기)[v:LayoutType:상세보기]")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566715740225)
+}
+train (t-6dh0jy7ytq3v4wfs0yqe82rjc) {
+  utterance ("[g:CommitRecipeSearch:continue,r:UpdateRecipeSearch] {[g:AddIngredient] (소고기)[v:Ingredient]}랑 {[g:AddIngredient2] (미역)[v:Ingredient]}이랑 {[g:AddIngredient3] (대파)[v:Ingredient]}랑 {[g:AddIngredient4] (양파)[v:Ingredient]}랑 {[g:AddIngredient5] (피망)[v:Ingredient]} (추가해줘)[v:AddKeyword:추가해줘]")
+  plan (zc+7CsIwFAbgX+ul3vURBAVdBG8PIOIgbhbnUpujZqhKmqIuPrsHFS9DIDiZkCXn+/8QNNCJ42Bz8ft652+TSPrD3lqeadObnUmFMiZPqyTUiSJ0DXJ6iCKplxTKI3kUqHBnLH2gR8DTgTaXro6Cxz+W9q1Lr8n9KkbLEJkIMd9vFQlJe422jRrYsaEdG9mxMZpmtqDL6aCEkXz88J9IHSmk4SCDLHLIw0UBRZRQRgVV1HiOp3BYvHeRbY6ty1Pcz/fKvDa4KcWNDvsqpyqcqXOyxh3lz1dv)
+  last-modified (1566709483842)
+}
+train (t-6fwdxmwgodocv67mhympqx7bu) {
+  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (뒤로)[v:LayoutType:이전] 넘겨줘")
+  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
+  last-modified (1566716071013)
+}
+train (t-6p3k8rzomy8eyuk6a8jrpjao8) {
+  utterance ([g:GuideStructure] 어떻게 해)
+  plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
+  last-modified (1566709559150)
+}
