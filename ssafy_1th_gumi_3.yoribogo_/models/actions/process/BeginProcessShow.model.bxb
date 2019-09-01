@@ -19,7 +19,9 @@ action (BeginProcessShow) {
       unknown-error{
         on-catch{
           halt{
-            dialog("예기치 못한 오류가 발생했습니다.")
+            dialog{
+              template-macro(DIALOG_ERROR)
+            }
           }
         }
       }

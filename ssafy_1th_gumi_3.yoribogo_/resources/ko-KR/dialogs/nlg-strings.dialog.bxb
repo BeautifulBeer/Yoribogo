@@ -22,12 +22,23 @@ template-macro-def (BEGIN_PROCESS_EXCEPTION){
   }
 }
 
-template-macro-def (UNKNOWN_ERROR){
+template-macro-def (DIALOG_ERROR){
   content{
    template("제대로 알아듣지 못했어요. 다시 말해주세요.") 
   }
 }
 
+template-macro-def (SYSTEM_ERROR){
+  content{
+   template("예기치 못한 오류가 발생했습니다. 관리자에게 문의해주세요.") 
+  }
+}
+
+template-macro-def (RECIPE_ERROR){
+  content{
+   template("어떤 레시피를 찾고 싶으신가요?") 
+  }
+}
 
 template-macro-def (CONNECT_YOUTUBE){
   content{

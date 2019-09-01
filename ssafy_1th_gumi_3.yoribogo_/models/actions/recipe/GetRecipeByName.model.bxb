@@ -30,7 +30,7 @@ action (GetRecipeByName) {
         on-catch{
           halt{
             dialog{
-              template-macro (UNKNOWN_ERROR)
+              template-macro (DIALOG_ERROR)
             }
           }
         }

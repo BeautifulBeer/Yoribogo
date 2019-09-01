@@ -19,7 +19,7 @@ action (LaunchWeb) {
       unknown-error{
         on-catch{
           halt{
-            dialog("예기치 못한 오류가 발생했습니다.")
+            dialog(SYSTEM_ERROR)
           }
         }
       }
