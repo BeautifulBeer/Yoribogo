@@ -3,7 +3,7 @@ confirmation-view{
     confirming : CommitProcessShow(action)
   }
   message{
-    if(action.processCommitState.layoutType == 'List'){
+    if(action.processCommitState.layoutType == '리스트'){
       template ("전체 요리과정입니다.")
     }else-if(action.processCommitState.totalStep - 1 == action.processCommitState.currentStep){
       template ("이제 마지막 과정입니다.")
@@ -17,7 +17,7 @@ confirmation-view{
   }
   render{
     layout{
-      if(action.processCommitState.layoutType == 'List'){
+      if(action.processCommitState.layoutType == '리스트'){
         for-each (action.processCommitState.processes){
           as (item){
             layout-macro (ProcessImage){
@@ -48,7 +48,7 @@ confirmation-view{
   
   conversation-drivers{
     conversation-driver{
-      if(action.processCommitState.layoutType == 'List'){
+      if(action.processCommitState.layoutType == '리스트'){
         template ("상세보기")  
       }else{
         if(action.processCommitState.currentStep < action.processCommitState.totalStep - 1){

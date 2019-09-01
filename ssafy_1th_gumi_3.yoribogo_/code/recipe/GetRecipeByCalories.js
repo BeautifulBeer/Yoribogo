@@ -3,7 +3,7 @@ var http = require('http');
 var config = require('config');
 var tool = require('lib/tool.js');
 
-module.exports.function = function getRecipeByCalories (lowerBound, upperBound, boundOption, recipeKeyword, searchKeyword) {  
+module.exports.function = function getRecipeByCalories (lowerBound, upperBound, boundOption, recipeKeyword) {  
   let options = {
     format : "json"
   }

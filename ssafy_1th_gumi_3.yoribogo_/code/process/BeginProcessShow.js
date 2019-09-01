@@ -1,6 +1,7 @@
 var tool = require('lib/tool.js');
 var fail = require('fail');
 
+
 module.exports.function = function beginProcessShow (processParameter) {
   var processes = tool.GetProcessesByRecipeId(processParameter.recipeId);
   if(processes == undefined || processes.length == 0){
@@ -12,7 +13,7 @@ module.exports.function = function beginProcessShow (processParameter) {
     recipeName : processParameter.recipeName,
     totalStep : processes.length,
     currentStep : -1,
-    layoutType : "List",
+    layoutType : "리스트",
     processes : processes
   };
 }

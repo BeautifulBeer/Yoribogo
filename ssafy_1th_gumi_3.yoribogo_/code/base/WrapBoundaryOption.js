@@ -1,4 +1,4 @@
-module.exports.function = function wrapBoundaryOption (lowerBound, upperBound, lowerBoundKeyword, upperBoundKeyword) {
+module.exports.function = function wrapBoundaryOption (lowerBound, upperBound) {
   let result = {
     lowerBoundFlag : false,
     upperBoundFlag : false,
@@ -11,12 +11,6 @@ module.exports.function = function wrapBoundaryOption (lowerBound, upperBound, l
   }
   if(upperBound != undefined && upperBound != 0){
     result.upperBoundFlag = true;
-    result.upperBound = upperBound;
-  }
-  if(upperBoundKeyword == undefined && lowerBoundKeyword == undefined){
-    result.lowerBoundFlag = true;
-    result.upperBoundFlag = true;
-    result.lowerBound = lowerBound;
     result.upperBound = upperBound;
   }
   return result;

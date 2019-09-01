@@ -3,7 +3,7 @@
   var fail = require('fail');
 
   // 전체 요리 데이터베이스에서 검색
-  module.exports.function = function BeginRecipeSearch (ingredients, recipeName, recipeKeyword, searchKeyword, boundOption) {
+  module.exports.function = function BeginRecipeSearch (ingredients, recipeName, recipeKeyword, boundOption) {
     var db;
     let searchType = "INGREDIENT";
     if(recipeName != undefined && recipeName != ""){
@@ -30,6 +30,6 @@
       maxPageNumber : 1,
       pageNumber : 1,
       recipesPerPage : 50,
-      layoutType : 'LARGE'
+      layoutType : '리스트'
     }
   }

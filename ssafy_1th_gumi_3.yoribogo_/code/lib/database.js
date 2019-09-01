@@ -94,4 +94,4 @@ module.exports.guides = [
     ],
     dialogExample : "300칼로리 이상 500칼로리 이하 레시피 보여줘"
   }
-]
+];
