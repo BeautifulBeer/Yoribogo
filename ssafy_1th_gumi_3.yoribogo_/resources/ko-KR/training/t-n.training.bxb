@@ -3,8 +3,143 @@ train (t-n0nhmijdxg7766wo0fdb1oboj) {
   plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
   last-modified (1566709743064)
 }
+train (t-n0t1cqh8clrwbkobgs81eqnrl) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (배추)[v:Ingredient]랑 (전분)[v:Ingredient]이 있는데 어떤 (음식)[v:RecipeKeyword:레시피]")
+  plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)
+  last-modified (1567338260065)
+}
+train (t-n0ub116l4foujsxvw0rvuj1az) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (은행)[v:Ingredient]이 있는데 어떤 (음식)[v:RecipeKeyword:레시피]")
+  plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
+  last-modified (1567344178445)
+}
+train (t-n0wz4y6x7htrxxuiomwxgscpd) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (오징어채)[v:Ingredient]랑 (사우어크라우트)[v:Ingredient]랑 (숯)[v:Ingredient]이랑 (견과류)[v:Ingredient]랑 (들깻가루)[v:Ingredient]랑 (양념장)[v:Ingredient]이랑 (멸치)[v:Ingredient]로 할 수 있는 (요리법)[v:RecipeKeyword:레시피]")
+  plan (5ZBBDoJADEW/IgiIhzBxoRsS4w00Low7OQDBocAsADMMEW5vlcTIYryAbZo0v+//RbHEpmmSrI93uojztpTxPrzJjrLw1JESsqFIq1boVhG2BvJYl6XUVxLyThElShTG0AEaDJFONBnJA+WyGmWuDOS5yhWlkir9n8j6568v1D9qlSLABFNYmMGGgzlcePCxYB2fy3dbrOI9wahf5bPusNflzeYsj3ULeAI=)
+  last-modified (1567340420370)
+}
+train (t-n1lnhj6zq8ivrjjre3p8nfhoq) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (그라나빠다노)[v:Ingredient]랑 (다진마늘)[v:Ingredient]이랑 (호박)[v:Ingredient]이랑 (당근)[v:Ingredient]이랑 (국물용 멸치)[v:Ingredient] 이용한 (요리)[v:RecipeKeyword:레시피]")
+  plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
+  last-modified (1567346695884)
+}
+train (t-n29ovscub8lqg8rgzq7l4ytpj) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (가락국수 면)[v:Ingredient]이랑 (보리)[v:Ingredient]랑 (땅콩가루)[v:Ingredient]랑 (석이버섯)[v:Ingredient]이랑 (프랑크 소시지)[v:Ingredient]로 할 수 있는 (조리법)[v:RecipeKeyword:레시피]")
+  plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
+  last-modified (1567346590540)
+}
+train (t-n2agce15ac938rm3zctpvnjrq) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (총각무)[v:Ingredient]랑 (김치)[v:Ingredient]랑 (고기산적)[v:Ingredient]으로 만들 수 있는 (음식)[v:RecipeKeyword:레시피]")
+  plan (vY/BCoJQEEVvmVbQTwQtaiNIf1C0iHb5AWLP8TkLNZ4j6d/3VAhavJbNZRZ3OHPhYo1906R5n0RSJLotOTmGD+4oDy8dGcUNxWJaJa0hHBzkuS5LljspflJMqVGFM3SCpodYUiEneSLN1Vfm1kFeK20oY6rkf8juZ78b9a/aZFhhhjk8LOAjwNJ6fC6DPOsw7mbUMIH1vmUDS3vAGw==)
+  last-modified (1567341429858)
+}
+train (t-n3136cofy97gd2fww3n3cf8cu) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (볶은소금)[v:Ingredient]이랑 (후춧가루)[v:Ingredient]랑 (굵은 파)[v:Ingredient]랑 (조미료)[v:Ingredient]를 이용한 (요리법)[v:RecipeKeyword:레시피]")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1567339145590)
+}
+train (t-n4b8xhcrqlg5glz6hefhi2524) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (송어)[v:Ingredient]랑 (청양고추)[v:Ingredient]가 있는데 어떤 (요리)[v:RecipeKeyword:레시피]")
+  plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)
+  last-modified (1567342061779)
+}
+train (t-n4bgmlwsrxdazb4q2lxdtfb7a) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (다시마국물)[v:Ingredient]으로 만들 수 있는 (요리법)[v:RecipeKeyword:레시피]")
+  plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
+  last-modified (1567337427130)
+}
+train (t-n8mgr53t7o6ep7bapbqoigybr) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (훈제연어)[v:Ingredient]가 있는데 무슨 (요리)[v:RecipeKeyword:레시피]")
+  plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
+  last-modified (1567343958700)
+}
+train (t-na4snl04xy5k4g2rza5t8pdjk) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (일본된장)[v:Ingredient]이랑 (가쓰오브시국물)[v:Ingredient]을 가지고 만들 수 있는 (요리)[v:RecipeKeyword:레시피]")
+  plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)
+  last-modified (1567340617838)
+}
+train (t-naeseizcb99kn8fp6n8l4xglx) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (마늘종)[v:Ingredient]이랑 (닭)[v:Ingredient]이랑 (달걀노른자)[v:Ingredient]랑 (통 도라지)[v:Ingredient]랑 (곶감)[v:Ingredient]이랑 (불린 쌀)[v:Ingredient]으로 만들 수 있는 (음식)[v:RecipeKeyword:레시피]")
+  plan (3ZA9DoJAEIWfoijCJUwstCEx3kBjYezcAxBcBpgCMMsS4fYukvhTrAdwXqb58s0rBgHWdR2nXbTVeZQ1BUe78MotpeGxJSW5JqFVI3WjCBuLeaiKgvWFJN9IUKxkbi0dpOFA6FiT1dxTxuVX59JinspMUcJU6j9UVj8feabuXqkEPkYYw8EEU7iYYQ4PC0Px4u84huG5wUf68Qx1zZ1nWvoO37h4AA==)
+  last-modified (1567339357651)
+}
 train (t-ne5uc66lneqqyvg65620ubgkg) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (김치)[v:Ingredient]랑 (가쓰오부시)[v:Ingredient]랑 (쑥갓)[v:Ingredient]이랑 (쇠고기)[v:Ingredient]를 이용한 (음식)[v:RecipeKeyword:레시피] 가르쳐줄래")
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
   last-modified (1566713836774)
+}
+train (t-nemwfok3g69ool2vtzp2yje8l) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (술)[v:Ingredient]이랑 (굵은고춧가루)[v:Ingredient]랑 (통 북어)[v:Ingredient]랑 (달걀)[v:Ingredient]이랑 (게맛살)[v:Ingredient]이랑 (청고추)[v:Ingredient]랑 (토마토케첩)[v:Ingredient]을 이용한 (요리)[v:RecipeKeyword:레시피]")
+  plan (5ZA9DoJAEIWfIvIjHsLEQhsS4w00FsZODkBwGWAKwCxLhNu7SmKkWC/gTGaKN997xWCJTdMkWR/vVBHnbcnxPrxxR1l46kgKbihSshWqlYStgTzWZcnqSoLvFFEiRWEMHaDBEKlEkZE8UM7VKHNlIM9VLillqtR/Iuufv75Q/6hligATTGFhBhtzOHDhwcdC6/hcvtvSKt4TjPpVvtZtvR3t93Saq3ULeAI=)
+  last-modified (1567343495601)
+}
+train (t-ngce58n39cxoderhqcottfsn6) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (홍차 티백)[v:Ingredient]이랑 (목이버섯)[v:Ingredient]이랑 (홍합)[v:Ingredient]이랑 (피자치즈)[v:Ingredient]가 있는데 어떤 (음식)[v:RecipeKeyword:레시피]")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1567343756843)
+}
+train (t-nj0366u6bfkll7v6eae79ysbx) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (두릅)[v:Ingredient]이랑 (청동호박)[v:Ingredient]이랑 (레드 와인)[v:Ingredient]이랑 (암소라살)[v:Ingredient]이 있는데 어떤 (음식)[v:RecipeKeyword:레시피]")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1567340515990)
+}
+train (t-njuoan1tmx3nscj7sl77e4hxy) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (쇠고기안심)[v:Ingredient]이랑 (표고버섯)[v:Ingredient]이랑 (된장)[v:Ingredient]이랑 (생선 살)[v:Ingredient]으로 할 수 있는 (음식)[v:RecipeKeyword:레시피]")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1567344596162)
+}
+train (t-njxqwv52sr0g8skveeq6ag5xn) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (굵은 소금)[v:Ingredient]이랑 (샐러드 오일)[v:Ingredient]이랑 (흰살생선)[v:Ingredient]으로 할 수 있는 (레시피)[v:RecipeKeyword:레시피]")
+  plan (vY/BCoJQEEVvmVbQTwQtaiNIf1C0iHb5AWLP8TkLNZ4j6d/3VAhavJbNZRZ3OHPhYo1906R5n0RSJLotOTmGD+4oDy8dGcUNxWJaJa0hHBzkuS5LljspflJMqVGFM3SCpodYUiEneSLN1Vfm1kFeK20oY6rkf8juZ78b9a/aZFhhhjk8LOAjwNJ6fC6DPOsw7mbUMIH1vmUDS3vAGw==)
+  last-modified (1567340510566)
+}
+train (t-no300t3nxep8lyb3az9wgsfj9) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (통북어)[v:Ingredient]랑 (다시물)[v:Ingredient]이랑 (고춧가루)[v:Ingredient]랑 (아몬드가루)[v:Ingredient]랑 (녹색피망)[v:Ingredient]이랑 (두반장)[v:Ingredient]이 있는데 어떤 (요리)[v:RecipeKeyword:레시피]")
+  plan (3ZBLDoJAEERLEQTlEiYucENivIHGhXEnByA4NNALwAxDhNs7QuJnMR7ArnTSqbyqRcNH0DRJ1sdbVcR5W3K8C6/cURYeO5KCG4qUbIVqJWFjIA91WbK6kOAbRZRIURhLR2gMRCpRZCT3lHP11bkykKcql5QyVeoPkfXPR56pv9cyxRITTGFhBhsO5nDhYaFdvPy3LO1hWP9Dz/G0a+u0oy93yFvAAw==)
+  last-modified (1567344438560)
+}
+train (t-noht0h4uscblfxgtnx5t94yty) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (녹차 국수)[v:Ingredient]랑 (상추 잎)[v:Ingredient]이랑 (들깻 잎)[v:Ingredient]이랑 (칠 리)[v:Ingredient]랑 (돼지고기안심)[v:Ingredient]이랑 (솔잎)[v:Ingredient]이 있는데 어떤 (음식)[v:RecipeKeyword:레시피]")
+  plan (3ZA9DoJAEIWfogLKJUwstCEx3kBjYezkAASXYdkCMMsQ4faukPhTrAdwJtN8+d4rBgHWdZ1kXbzlPJZNoeJdeFUtZeGxJS1UTRHrRnCjCRuLeaiKQvGFhLpRRIkWubV0kIZAxAmT1dyTVOVX59JinkqpKVVU8h8qq5+PPFN3r3SKBUYYw8EEU8zgwoOPuaF48fc6hqG/4GOf4xvqmrxvWrw+7wAP)
+  last-modified (1567343968891)
+}
+train (t-noyfm6n02fl7sovq7bgck9u6o) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (쌀가루)[v:Ingredient]랑 (샐러드나)[v:Ingredient]랑 (볶은 소금)[v:Ingredient]을 가지고 만들 수 있는 (레시피)[v:RecipeKeyword:레시피]")
+  plan (vY/BCoJQEEVvmVbQTwQtaiNIf1C0iHb5AWLP8TkLNZ4j6d/3VAhavJbNZRZ3OHPhYo1906R5n0RSJLotOTmGD+4oDy8dGcUNxWJaJa0hHBzkuS5LljspflJMqVGFM3SCpodYUiEneSLN1Vfm1kFeK20oY6rkf8juZ78b9a/aZFhhhjk8LOAjwNJ6fC6DPOsw7mbUMIH1vmUDS3vAGw==)
+  last-modified (1567342056052)
+}
+train (t-npwt9lk4oh4alj4u3oscck2qb) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (굵은 소금)[v:Ingredient]이랑 (샐러드 오일)[v:Ingredient]이랑 (흰살생선)[v:Ingredient] 이용한 (요리법)[v:RecipeKeyword:레시피]")
+  plan (vY/BCoJQEEVvmVbQTwQtaiNIf1C0iHb5AWLP8TkLNZ4j6d/3VAhavJbNZRZ3OHPhYo1906R5n0RSJLotOTmGD+4oDy8dGcUNxWJaJa0hHBzkuS5LljspflJMqVGFM3SCpodYUiEneSLN1Vfm1kFeK20oY6rkf8juZ78b9a/aZFhhhjk8LOAjwNJ6fC6DPOsw7mbUMIH1vmUDS3vAGw==)
+  last-modified (1567340512240)
+}
+train (t-ns7hgmmq9hwhqnx9upfzac70h) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (우거지)[v:Ingredient]랑 (칼국수면)[v:Ingredient]이랑 (페스토 소스)[v:Ingredient]랑 (사골)[v:Ingredient]이랑 (와인)[v:Ingredient]이 있는데 어떤 (요리)[v:RecipeKeyword:레시피]")
+  plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
+  last-modified (1567344187697)
+}
+train (t-ntqtm9inv6s45glum2423vbik) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (피자 치즈)[v:Ingredient]가 있는데 무슨 (음식)[v:RecipeKeyword:레시피]")
+  plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
+  last-modified (1567342164620)
+}
+train (t-nu38jweizw5ms2l5bmbsbpsmn) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (생크림)[v:Ingredient]이랑 (타바스코)[v:Ingredient]랑 (요리 술)[v:Ingredient]이랑 (모짜렐라치즈)[v:Ingredient]랑 (포도주)[v:Ingredient]랑 (레몬드레싱)[v:Ingredient]이랑 (조선간장)[v:Ingredient]으로 할 수 있는 (음식)[v:RecipeKeyword:레시피]")
+  plan (5ZAxDoJAEEW/IqiAhzCx0IbEeAONhbGTAxBcBtgCMMsQ4faukBgp1gs4k2n+vHnFYIVtXcdpF+05j7KmkNEhuMuW0uDckhKyppBVI7hRhJ2BPFVFIflGQj4opFiJ3CgdoOEg5JjJSB4pk+XIuTaQlzJTlEgq+T+Rzc9fX6l7ViqBjwmmsDCDDQdzLLCEC0/n+Gy+29Ip+vFH/S5X53bv8HqLo3MLeAE=)
+  last-modified (1567344591918)
+}
+train (t-nw3tjalshms2fru2gigg03jyg) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (버섯)[v:Ingredient]이랑 (호두)[v:Ingredient]랑 (생굴)[v:Ingredient]이랑 (진간장)[v:Ingredient]이랑 (가재새우)[v:Ingredient]랑 (김치 잎)[v:Ingredient] 사용한 (요리)[v:RecipeKeyword:레시피]")
+  plan (3ZA9DoJAEIWfoiLCJUwstCEx3kBjYezkAASXYdkCMMsQ4faukPhTrAdwXqb58s0rBgHWdZ1kXbzlPJZNoeJdeFUtZeGxJS1UTRHrRnCjCRuLeaiKQvGFhLpRRIkWubV0kIaDiBMmq7knqcqvzqXFPJVSU6qo5D9UVj8feabuXukUPkYYw8EEU8zgYg4PC0Px4u84hqHf4CPP8QwdLt2+xzcuHg==)
+  last-modified (1567343297719)
+}
+train (t-nwj3z7vibcsfz3u5hspmtti84) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (겨자 잎)[v:Ingredient]이랑 (고추장)[v:Ingredient]이랑 (찹쌀)[v:Ingredient]이랑 (고추기름)[v:Ingredient]이랑 (정향)[v:Ingredient] 활용한 (요리)[v:RecipeKeyword:레시피]")
+  plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
+  last-modified (1567343763580)
+}
+train (t-nxrfq8qd3xhzi11vohxf675bc) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (셀러리)[v:Ingredient]랑 (깨소금)[v:Ingredient]이랑 (월계수 잎)[v:Ingredient]이랑 (사이다)[v:Ingredient]로 할 수 있는 (레시피)[v:RecipeKeyword:레시피]")
+  plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
+  last-modified (1567340139742)
 }
