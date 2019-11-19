@@ -54,9 +54,9 @@ train (t-maxfa119ekkuuio8i45jcsd09) {
   last-modified (1567339916709)
 }
 train (t-mbqryc6wswu5w5a9o6q0gdw0w) {
-  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (220)[v:UpperBound] 이상 가르쳐줘")
-  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
-  last-modified (1574165063809)
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (220)[v:LowerBound] 이상 가르쳐줘")
+  plan (jY6xDoJADIaLgvgaOulCor6Bxs3ERAZHcpwFOsCR0ouw+OwisDBcYpMm/dLvbwpr2DWNyrrkIEWS25KSU5RSi1l0bZE1NRgLWy2WEfYO82LKkuSBmmqMUbEunEdHaQzEogSd5hlzqmY3ty7T2Op1r4VM5XzxyaoePMXdpB7/Vj/phLBxZG7mjTyEIAQPFrAEHwJY9QQz9gYe+1d+P4X9NgD4Ag==)
+  last-modified (1574169945067)
 }
 train (t-mbw1wld8ihlngp0er9qbx8n3p) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (젓국)[v:Ingredient]이랑 (건 블루베리)[v:Ingredient]랑 (쇠고기등심)[v:Ingredient]이랑 (청포도)[v:Ingredient]랑 (키위)[v:Ingredient] 이용한 (요리)[v:RecipeKeyword:레시피]")
