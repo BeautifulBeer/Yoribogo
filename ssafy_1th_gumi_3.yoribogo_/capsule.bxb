@@ -1,6 +1,6 @@
 capsule {
   id (ssafy_1th_gumi_3.bixef)
-  version (2.4.0)
+  version (2.5.6)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -10,9 +10,12 @@ capsule {
   }
   
   runtime-flags {
+    use-input-views-for-selection-list-detail
     concepts-inherit-super-type-features
+    modern-default-view-behavior
     modern-prompt-rejection
     support-halt-effect-in-computed-inputs
+    no-filtering-with-validation
   }
    
   capsule-imports {
@@ -20,10 +23,10 @@ capsule {
       as (core) 
     }
     import (viv.entity) {
-      as (entity) version(3.18.11)
+      as (entity) version(4.0.1)
     }
     import (viv.money) {
-      as (money) version (2.20.9)
+      as (money) version (2.22.20)
     }
     import (viv.common) {
       as (common) version-from (entity)
@@ -32,7 +35,7 @@ capsule {
       as (image) version-from (common)
     }
     import (viv.contact) {
-      as (contact) version(2.5146.7)
+      as (contact) version(2.5156.4)
     }
   }
 }

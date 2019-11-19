@@ -87,14 +87,18 @@ action (UpdateRecipeSearch) {
       error (NoParameter){
         on-catch{
           halt{
-            dialog("죄송하지만, 다시 처음부터 말해주세요.")
+            dialog{
+              template-macro (NO_PARAMETER)
+            }
           }
         }
       }
       unknown-error{
         on-catch{
           halt{
-            dialog("제대로 알아듣지 못했어요. 다시 말해주세요.")
+            dialog{
+              template-macro (SYSTEM_ERROR)
+            }
           }
         }
       }

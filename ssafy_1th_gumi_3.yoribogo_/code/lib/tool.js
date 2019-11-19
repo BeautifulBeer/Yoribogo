@@ -89,6 +89,7 @@ module.exports.GetAllRecipes = function(){
 
 // 레시피를 재료명을 이용해 받아온다
 module.exports.GetRecipesByMaterials = function(ingredients){
+
   if(ingredients == undefined || ingredients.length == 0){
     throw fail.checkedError('There is no parameter', 'NoParameter', null);
   }
