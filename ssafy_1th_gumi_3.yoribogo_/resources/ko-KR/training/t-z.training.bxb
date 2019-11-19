@@ -113,6 +113,11 @@ train (t-zt9e6hhhm943hpi6gui087222) {
   plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
   last-modified (1567341837737)
 }
+train (t-ztajzf4i2g8oer3lfx73gdj49) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (보쌈김치)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] 보여줄래")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1574166437331)
+}
 train (t-zuce67rjo4vdrqffdftd9pk9r) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (피시 소스)[v:Ingredient]를 이용한 (요리법)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)

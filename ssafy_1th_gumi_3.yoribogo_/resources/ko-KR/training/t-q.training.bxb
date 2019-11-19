@@ -133,6 +133,11 @@ train (t-qw6tmjot0tm907qgdkpi2yoxc) {
   plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
   last-modified (1567343772157)
 }
+train (t-qwb2ys13fns3k8nns8gvxgi8m) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (보쌈김치)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] 확인해")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1574166554817)
+}
 train (t-qxj5p71pbrihh9rmrrpgfjfh1) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (마른새우)[v:Ingredient]가 있는데 무슨 (요리)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
