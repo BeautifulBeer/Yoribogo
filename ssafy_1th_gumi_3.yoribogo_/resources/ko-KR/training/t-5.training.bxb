@@ -43,6 +43,11 @@ train (t-5aga57eq3d2a8wksjrbmljmnr) {
   plan (3ZA7DoJQEEWv4g9lEyYW2pAYd6CxMHayAIKPAaYAzGOIsHsfkvgpngtwJtOcnHuLgYd1VUVJG24lC9M653DnX7mhxD82pBVXFIiuldSasLGYhzLPWS6k+EYBRVpl1tJe6gOBREJWc08pF1+dS4t5KlJNMVMhf6isfj7yTO291DEWGGAIByOMMcEUM7iYG4oXf69jGJ7nfWw3rqFddmJa+rwDPAA=)
   last-modified (1567338265337)
 }
+train (t-5bwxgxbx85u9xx2t8kos1pabr) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (보쌈김치)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] 확인할래")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1574166553955)
+}
 train (t-5dg2tddqgnttf7u1fsgfs3qpc) {
   utterance ([g:GuideStructure] 활용법 가르쳐 줄래)
   plan (Y2BkUC0uTkyrjDcsyYhPL83NjDfWS8qsSE3Tcy/NTEkNLikqTS4pLUplAAFGEAEA)
@@ -72,6 +77,11 @@ train (t-5gzdk9kipayveczdtgvwzs7os) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (오이)[v:Ingredient]랑 (모둠채소)[v:Ingredient]랑 (무채)[v:Ingredient]랑 (파래)[v:Ingredient]랑 (닭 육수)[v:Ingredient]랑 (산초가루)[v:Ingredient]랑 (흑설탕)[v:Ingredient]으로 할 수 있는 (요리법)[v:RecipeKeyword:레시피]")
   plan (5ZA9DoJAEIWf4u+ChzCx0IbEeAONhbGTAxBcBtgCMMsQ4fYukhgp1gs4L9O8+d4rBitsqypK2nDPWZjWuQoP/l01lPjnhrRUFQWsa8m1Juws5KnMc8U3kupBAUVaZtbSHuoDAUdMVvJIqSoGnWsLeSlSTbGigv8T2fz89ZXaZ6ljeBhhDAcTTDHDHAssIeAaH5/Ltxzj4r3eQN0I43f5rsk1XcL4DvAC)
   last-modified (1567342997201)
+}
+train (t-5hi5j8l89s19ep2gz7oxmhcxf) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (보쌈김치)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] 알려줘")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYLXTO/UyvL8ohQGRbyq/BJzUxlYGRgZmBiYGViALAYomxlIM4AxCLAAWSBZZgYGAA==)
+  last-modified (1574166394068)
 }
 train (t-5hkhsqkzjdr0mni8pb2bmacan) {
   utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (그전)[v:LayoutType:이전]으로")
