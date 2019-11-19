@@ -4,10 +4,10 @@ var console = require('console');
 var fail = require('fail');
 
 module.exports.function = function selectRecipeSearch (recipeBasicStructure, recipeCommitState, $vivContext) {
-  
+
   options = {
     query: {
-      user_id : $vivContext.userId,
+      user_id : $vivContext.sessionId,
       recipe_id : recipeBasicStructure.recipeId,
       cnt : 4
     }

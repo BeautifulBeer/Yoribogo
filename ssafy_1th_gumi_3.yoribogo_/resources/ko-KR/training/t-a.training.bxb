@@ -21,7 +21,7 @@ train (t-a4q959okj5ddb5qekobniz4sj) {
 train (t-a6ek4d72dp01fvxmh1vv62ack) {
   utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (300)[v:LowerBound] 칼로리 이상 (700)[v:UpperBound] 칼로리 미만 (레시피)[v:RecipeKeyword:레시피] 찾아줘")
   plan (jY/LCsIwFETHVx/+heJCN4L6B4orBcEiLkvaXtss2oQ0Rbvx201rXbiIGEi4M5yZSzDGvCzZrQ5XOgvTKufhZhnxB92W+wepmJcUaFXFulKEhYXciTzn+kwxlxQQU3FmLX1D70CgmSYruaWUF1+dUxspqiI5Sc1FgdnPvQeq70Il1o9cFZNtG1N1V7j+G31GncTEkjmKO6k2ZEUuUn4QHz30McAQIzhw4RkHnde4jecajfZ+3uY4ZvZMyjecA7wA)
-  last-modified (1566709478883)
+  last-modified (1569149288064)
 }
 train (t-a6gx0h5ta7m3bu91mfpmcq1x7) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (숙주)[v:Ingredient]랑 (꽁치)[v:Ingredient]랑 (과일 통조림)[v:Ingredient]이랑 (넛맥)[v:Ingredient]이랑 (미역)[v:Ingredient]이랑 (그린올리브)[v:Ingredient]랑 (모유)[v:Ingredient]가 있는데 무슨 (요리)[v:RecipeKeyword:레시피]")
@@ -92,6 +92,11 @@ train (t-aq303ndvowefsbmkkpmc4wqes) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (식용유)[v:Ingredient]랑 (카레)[v:Ingredient]랑 (삼겹살)[v:Ingredient]이랑 (다진홍고추)[v:Ingredient]랑 (청국장)[v:Ingredient]이랑 (레몬주스)[v:Ingredient]랑 (사과즙)[v:Ingredient] 활용한 (레시피)[v:RecipeKeyword:레시피]")
   plan (5ZAxDoJAEEW/ooCIhzCx0IbEeAONhbGTAxBcBpgCMMsS4fauYowU6wWcyTR/3rxisMC6ruO0i7Yqj7Km4GgXXLmlNDi2JAXXFCrZCNVIwsZAHqqiYHUhwTcKKZYiN0p7qD8IVazISO4p43LgXBrIU5lJSphK9Z/I6uevz9TdK5nAxwhjWJhgChsOXMzgYa5zfDbfbekUr/EH/SxP5672OG+HrXMLeAA=)
   last-modified (1567338093026)
+}
+train (t-aq5njbhafpsm0dyi14ziwkmp3) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (100)[v:LowerBound] 에서 (1000)[v:UpperBound] 까지 (요리법)[v:RecipeKeyword:레시피] 찾아줘")
+  plan (jY/LCsIwFETHVx/+heJCN4L6B4orBcEiLkvaXtss2oQ0Rbvx201rXbiIGEi4M5yZSzDGvCzZrQ5XOgvTKufhZhnxB92W+wepmJcUaFXFulKEhYXciTzn+kwxlxQQU3FmLX1D70CgmSYruaWUF1+dUxspqiI5Sc1FgdnPvQeq70Il1o9cFZNtG1N1V7j+G31GncTEkjmKO6k2ZEUuUn4QHz30McAQIzhw4RkHnde4jecajfZ+3uY4ZvZMyjecA7wA)
+  last-modified (1569149585170)
 }
 train (t-aq81iwqnrpjyvq7gvetf4gfox) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (간 생강)[v:Ingredient]이랑 (파마산치즈가루)[v:Ingredient]랑 (깨)[v:Ingredient]를 사용해 만들 수 있는 (레시피)[v:RecipeKeyword:레시피]")

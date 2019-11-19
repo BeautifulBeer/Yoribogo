@@ -33,6 +33,11 @@ train (t-g5j82psjlmci4gie98k6h4bz7) {
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
   last-modified (1567346856876)
 }
+train (t-g6upparx7aq2z9bsolh8kjz34) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (200)[v:LowerBound] 부터 (500)[v:UpperBound] 사이 보여줘")
+  plan (jc5BC4IwFAfwV6bVx6hTXYTqGxTdgiCJjjLnU99BN+ZGeumzt9QCD4MGg/cfv/9jsIRNXbOsjXe6iHNTUnwIE2owC88NKk41RloZro1C2DrkSZQl6RtykhghU7xwLu1RX4g00+iUR8ypGu1cu6QwVXqVmkTl/OJDMdk5ptqB7v+mr2SIsHJ0LuKJqis5yV3KL1nABKbgwQx8CGBuM4xeApvgd/vj2/kjPTvBGw==)
+  last-modified (1569149577854)
+}
 train (t-g7d1najfen2gfbpkqmgm1bnz3) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (춘권피)[v:Ingredient]랑 (당근잎)[v:Ingredient]이랑 (절인배추)[v:Ingredient]랑 (오이피클)[v:Ingredient] 사용한 (조리법)[v:RecipeKeyword:레시피]")
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)

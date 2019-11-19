@@ -5,6 +5,11 @@ module.exports.function = function wrapBoundaryOption (lowerBound, upperBound) {
     upperBound : 2000,
     lowerBound : 0,
   }
+  var console = require('console');
+  
+  console.log("LOWBOUND> ", lowerBound);
+  console.log("UPPERBOUND> ", upperBound);
+
   if(lowerBound != undefined && lowerBound != 0){
     result.lowerBoundFlag = true;
     result.lowerBound = lowerBound;

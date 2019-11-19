@@ -53,6 +53,11 @@ train (t-2bkxoa1vb8rgirk9yp80cf1fv) {
   plan (5ZAxDoJAEEW/IqCIhzCx0IbEeAONhbGTAxBcBtgCMMsQ4fYukhgp1gs4P9P8ef8XgxW2dR2nXbTnPMqaQkaH4C5bSoNzS0rImkJWjeBGEXYG8lQVheQbCfmgkGIlcmPpAA2BkGMmI3mkTJajzrWBvJSZokRSyf+JbH7++krds1IJfEwwhYUZbDhwMccCHpbax+fyLUu7eK8/Uj+e9vu0o/O2bnK1bwEv)
   last-modified (1567345981995)
 }
+train (t-2c612qgh32f25hr7zxc7s468f) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (500)[v:UpperBound] 까지 알려줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1569150615235)
+}
 train (t-2df441oywl8lqjc0gpd8diu4w) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (칼국수)[v:Ingredient]랑 (파)[v:Ingredient] 사용한 (요리법)[v:RecipeKeyword:레시피]")
   plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)

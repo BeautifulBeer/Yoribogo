@@ -21,11 +21,6 @@ action (BeginRecipeSearch) {
       type(RecipeKeyword)
       min (Optional) max (One)
     }
-    
-    // input(searchKeyword){
-    //   type(SearchKeyword)
-    //   min (Required) max (One)
-    // }
   }
   output (RecipeCommitState){
     throws{

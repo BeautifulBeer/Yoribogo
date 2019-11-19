@@ -58,6 +58,11 @@ train (t-rfb39ah8w87q329w5w7152x6h) {
   plan (5ZBNDoJADIWfoiI/HsLEhW5IjDfQuDDu5AAEhwJdAGYYItzeQRIji/EC9qVJ8/r1LYoVtnUdp120V3mUNQVHh+DOLaXBuSUpuKZQyUaoRhJ2BvJUFQWrGwl+UEixFLkxdICGg1DFiozkkTIuR5lrA3kpM0kJU6n+E9n8/PWVumclE/iYYAoLM8yxgI0lHLjwtI/P5luWdvFuf6S+XO33KZ6eHJ1ka98CXg==)
   last-modified (1567346185898)
 }
+train (t-rgw8acifi99lj0sj3429jf2ng) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (100)[v:LowerBound] 에서 (1000)[v:UpperBound] 까지 보여줘")
+  plan (jc5BC4IwFAfwV6bVx6hTXYTqGxTdgiCJjjLnU99BN+ZGeumzt9QCD4MGg/cfv/9jsIRNXbOsjXe6iHNTUnwIE2owC88NKk41RloZro1C2DrkSZQl6RtykhghU7xwLu1RX4g00+iUR8ypGu1cu6QwVXqVmkTl/OJDMdk5ptqB7v+mr2SIsHJ0LuKJqis5yV3KL1nABKbgwQx8CGBuM4xeApvgd/vj2/kjPTvBGw==)
+  last-modified (1569149584616)
+}
 train (t-rhelugmspn32whb1q5ury3t2b) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (생 굴)[v:Ingredient]이랑 (초생강)[v:Ingredient]이랑 (당근즙)[v:Ingredient]이랑 (곱창)[v:Ingredient]이랑 (불린찹쌀)[v:Ingredient]이랑 (완두콩)[v:Ingredient]이랑 (왜 된장)[v:Ingredient]이 있는데 무슨 (음식)[v:RecipeKeyword:레시피]")
   plan (5ZBBDoJADEW/IgqIhzBxoRsS4w00Low7OQDBoUAXgBmGCLd3kMTIYryAbZo0v+//RbHCtq7jtIv2Ko+ypuDoENy5pTQ4tyQF1xQq2QjVSMLOQJ6qomB1I8EPCimWIjeGDtBgCFWsyEgeKeNylLk2kJcyk5Qwleo/kc3PX1+pe1YygY8JprAwg405FnDgwsNS6/hcvtvSKt7jj7ovT+uu9jp667NsrVvACw==)

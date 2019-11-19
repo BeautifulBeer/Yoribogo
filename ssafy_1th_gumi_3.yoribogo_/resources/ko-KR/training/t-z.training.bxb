@@ -43,6 +43,11 @@ train (t-zf69l42opbf198vjvvoeldyx0) {
   plan (3ZBLDoJAEERLUZDPJUxc4IbEeAONC+NODkBwaGAWgBmGCLe3lcTPYjyAXeleVF7VohEgbNs0H5KNLpOiq2SyjS6ypzw69KSEbCnWqhO6U4S1gdw3VSX1mYS8UkypEqWxdITGQKxTTUZyR4WsvzqXBvJYF4oySbX+Q2T185EnGm6NyuBjgikszDCHDQcLuPDYxct/y2IPzw0+9BiXXY+vzXmHm3xmcQc=)
   last-modified (1567346081385)
 }
+train (t-zfnvn88n8n4g1x8rq00p023wm) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (500)[v:LowerBound] 칼로리 근처 (레시피)[v:RecipeKeyword:레시피] 알려줘")
+  plan (jY/NCoJAFIWPlVaPUbSojVC9QdGqIMhFSxnHq85CR8YRddOz5x9Bi4k2F+7hO9/lYoltUbCo8fc68eMyFf7RDURNkXupSXFRkKdVyXWpCDsDeZZpKvSDuMjJI6Z4YpQO0FDwNNNkJE8Ui+zLuTaRsszCe66FzLD5efdKTSVVaHzkqVje25hqRuHhb/QVjCtWhs5NVqT6EhawMMEUM9hwMG93jEmXdYnVJ/hMtKTVcnZLOMAb)
+  last-modified (1569149580355)
+}
 train (t-zgmvmyjnphuxg42isv70hk81l) {
   utterance ("[g:CommitProcessShow:continue,r:UpdateProcessShow] (상세화면)[v:LayoutType:상세보기] 보여줘")
   plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)

@@ -73,6 +73,11 @@ train (t-iex07y6tgdndgncr5p1fdaucq) {
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
   last-modified (1567344601418)
 }
+train (t-igu1i6ddiwki7x12nuq1mzqfe) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (100)[v:LowerBound] 에서 (300)[v:UpperBound] 사이 (요리법)[v:RecipeKeyword:레시피] 찾아줘")
+  plan (jY/LCsIwFETHVx/+heJCN4L6B4orBcEiLkvaXtss2oQ0Rbvx201rXbiIGEi4M5yZSzDGvCzZrQ5XOgvTKufhZhnxB92W+wepmJcUaFXFulKEhYXciTzn+kwxlxQQU3FmLX1D70CgmSYruaWUF1+dUxspqiI5Sc1FgdnPvQeq70Il1o9cFZNtG1N1V7j+G31GncTEkjmKO6k2ZEUuUn4QHz30McAQIzhw4RkHnde4jecajfZ+3uY4ZvZMyjecA7wA)
+  last-modified (1569150376440)
+}
 train (t-ihiyepnt35oqq177sezqn4jic) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (훈제연어)[v:Ingredient]를 가지고 만들 수 있는 (요리)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
@@ -122,6 +127,11 @@ train (t-it7i5thqhyj4hlqbelphkwvwu) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (녹말 물)[v:Ingredient]이 있는데 무슨 (요리)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
   last-modified (1567343144374)
+}
+train (t-iu5718sh0szs7snh7qanlxkhm) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (100)[v:LowerBound] 부터 (500)[v:UpperBound] 사이 (레시피)[v:RecipeKeyword:레시피] 보여줘")
+  plan (jY/LCsIwFETHVx/+heJCN4L6B4orBcEiLkvaXtss2oQ0Rbvx201rXbiIGEi4M5yZSzDGvCzZrQ5XOgvTKufhZhnxB92W+wepmJcUaFXFulKEhYXciTzn+kwxlxQQU3FmLX1D70CgmSYruaWUF1+dUxspqiI5Sc1FgdnPvQeq70Il1o9cFZNtG1N1V7j+G31GncTEkjmKO6k2ZEUuUn4QHz30McAQIzhw4RkHnde4jecajfZ+3uY4ZvZMyjecA7wA)
+  last-modified (1569149578416)
 }
 train (t-izbbyxh9vx38izv0kwlfpry8u) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (다시 물)[v:Ingredient] 활용한 (요리법)[v:RecipeKeyword:레시피]")

@@ -78,6 +78,11 @@ train (t-pnioxokgft3amo6yhoc88rpna) {
   plan (5ZAxDoJAEEW/oqiAhzCh0IbEeAONhbGTAxBcBpgCMMsS4fYukhgp1gs4P9P8ef8XgzW2dR2nXbRXeZQ1BUeH4M4tpcG5JSm4plDJRqhGEnYG8lQVBasbCX5QSLEUubF0gIZAqGJFRvJIGZejzo2BvJSZpISpVP+J+D9/faXuWckEHiaYwsIMc9hYYIkVHLjax+fyLUu7eK83Uj+O9vu8q3ts3edo3wJe)
   last-modified (1567337484394)
 }
+train (t-pr17ffbse4jrz451x40g5fyr4) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (400)[v:LowerBound] 에서 (600)[v:UpperBound] 칼로리 사이 (레시피)[v:RecipeKeyword:레시피] 보여줘")
+  plan (jY/LCsIwFETHVx/+heJCN4L6B4orBcEiLkvaXtss2oQ0Rbvx201rXbiIGEi4M5yZSzDGvCzZrQ5XOgvTKufhZhnxB92W+wepmJcUaFXFulKEhYXciTzn+kwxlxQQU3FmLX1D70CgmSYruaWUF1+dUxspqiI5Sc1FgdnPvQeq70Il1o9cFZNtG1N1V7j+G31GncTEkjmKO6k2ZEUuUn4QHz30McAQIzhw4RkHnde4jecajfZ+3uY4ZvZMyjecA7wA)
+  last-modified (1569149581464)
+}
 train (t-ps0s5g7zq0xkppoq94je3hlqx) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (볶은소금)[v:Ingredient]이랑 (후춧가루)[v:Ingredient]랑 (굵은 파)[v:Ingredient]랑 (조미료)[v:Ingredient]가 있는데 어떤 (음식)[v:RecipeKeyword:레시피]")
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
