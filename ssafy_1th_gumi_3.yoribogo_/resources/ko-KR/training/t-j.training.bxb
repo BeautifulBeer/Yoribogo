@@ -88,6 +88,11 @@ train (t-jnhj1jrbr6v1cmvzl7gqa2f9m) {
   plan (5ZAxDoJAEEW/ooKIhzCh0IbEeAONhbGTAxBcBpgCMMsS4fYukhgp1gs4P9P8ef8XgzW2dR2nXbRXeZQ1BUeH4M4tpcG5JSm4plDJRqhGEnYG8lQVBasbCX5QSLEUubF0gIZAqGJFRvJIGZejzo2BvJSZpISpVP+J+D9/faXuWckEHiaYwsIMcyxgw8ESLlbax+fyLUu7eK83Uj+u9vt03+ToDlv7FvAC)
   last-modified (1567340419100)
 }
+train (t-jrfad65wpg5f7p8zgqxxlcbf5) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (700)[v:UpperBound] 칼로리 이하 보여줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574163933988)
+}
 train (t-jv6wkxcvsf0d2okqlnxfkkiov) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (실파)[v:Ingredient]랑 (김)[v:Ingredient]이랑 (로즈메리)[v:Ingredient]랑 (돼지 볼살)[v:Ingredient]이랑 (말린 표고버섯)[v:Ingredient] 이용한 (조리법)[v:RecipeKeyword:레시피]")
   plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)

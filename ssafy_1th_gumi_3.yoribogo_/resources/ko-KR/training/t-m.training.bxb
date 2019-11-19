@@ -53,6 +53,11 @@ train (t-maxfa119ekkuuio8i45jcsd09) {
   plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)
   last-modified (1567339916709)
 }
+train (t-mbqryc6wswu5w5a9o6q0gdw0w) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (220)[v:UpperBound] 이상 가르쳐줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574165063809)
+}
 train (t-mbw1wld8ihlngp0er9qbx8n3p) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (젓국)[v:Ingredient]이랑 (건 블루베리)[v:Ingredient]랑 (쇠고기등심)[v:Ingredient]이랑 (청포도)[v:Ingredient]랑 (키위)[v:Ingredient] 이용한 (요리)[v:RecipeKeyword:레시피]")
   plan (1ZA9DoJAEIWfIoo/lzCx0IbEeAONhbGTAxBcBpgCMMsQ4fauoiQWa++8TPPle1MM5lhXVZS04VayMK1zDnf+lRtK/GNDWnFFgehaSa0JG4t5KPOc5UKKbxRQpFVmPdpJXSGQSMhq7inl4uvm0mKeilRTzFTIvymrn186U3svdYwZBhjCwQguxpjAw9Qw9PQTxxC8dtHnOZ5h7rs3Nk0HeAA=)

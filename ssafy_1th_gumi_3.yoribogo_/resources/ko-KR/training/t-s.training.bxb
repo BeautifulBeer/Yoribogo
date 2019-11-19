@@ -38,6 +38,11 @@ train (t-sberwd8godsd563au5djhhsae) {
   plan (3ZA9DoJAEIWfogLqJUwstCEx3kBjYezkAASXAaYAzDJEuL2rJP4U6wGcyTRfvveKwRyruo7TLtpIHmVNwdE2uHBLaXBoSSuuKRTdKGk0YW0x91VRsJxJ8ZVCirXKraW91AdCiYWs5o4yLr86FxbzWGaaEqZS/lBZ/nzkibpbpRPMMMAQDkYYYwIXHnxMDcWLv9cxDM+bf+xjfENdk/dMS593gDs=)
   last-modified (1567345140998)
 }
+train (t-sd3qkyk6s21e6g929piomgfhi) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (150)[v:UpperBound] 칼로리 이하 음식 가르쳐줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574165063186)
+}
 train (t-shw8ri4rd1viqnlmift97gfd2) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (콘플레이크)[v:Ingredient]랑 (장국)[v:Ingredient]이랑 (맛 간장)[v:Ingredient]이랑 (배추잎)[v:Ingredient]이랑 (꿀)[v:Ingredient]이랑 (양념간장)[v:Ingredient] 활용한 (조리법)[v:RecipeKeyword:레시피]")
   plan (3ZA9DoJAEIWfIijCJUwstCEx3kBjYezkAGRdBpgCMMsS4faukvhTrAdwJtN8+d4rBiFWTSOyPtnoIsnbkpNtdOGOsujQkZLcUKxVK3WrCGuLua/LkvWZJF8pJqFkYS0dpCEQa6HJau4o5+qrc2Exj1WuKGWq9B8qy5+PPFF/q1WKACOM4WACFx6mmMHH3FC8+Hsdw/C88GMf4xvqm7Rnsq7pCIyLOw==)

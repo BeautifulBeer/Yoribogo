@@ -48,6 +48,11 @@ train (t-qcuvmd37it12j3s69wrvxwpj2) {
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
   last-modified (1567341654357)
 }
+train (t-qg4z5pt083ic7qje5dhq237b2) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (450)[v:LowerBound] 칼로리 이상 알려줘")
+  plan (jY6xDoJADIaLgvgaOulCor6Bxs3ERAZHcpwFOsCR0ouw+OwisDBcYpMm/dLvbwpr2DWNyrrkIEWS25KSU5RSi1l0bZE1NRgLWy2WEfYO82LKkuSBmmqMUbEunEdHaQzEogSd5hlzqmY3ty7T2Op1r4VM5XzxyaoePMXdpB7/Vj/phLBxZG7mjTyEIAQPFrAEHwJY9QQz9gYe+1d+P4X9NgD4Ag==)
+  last-modified (1574164867149)
+}
 train (t-qgpzh2pyaigkqiu1v04zsnhep) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (오렌지)[v:Ingredient]를 가지고 만들 수 있는 (요리)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)

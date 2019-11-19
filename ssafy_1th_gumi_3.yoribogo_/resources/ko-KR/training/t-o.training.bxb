@@ -83,6 +83,11 @@ train (t-oolyspf84v78y0ddqjlra81a7) {
   plan (3ZBLDoJAEERLUeR3CRMXuCEx3kDjwriTAxAcGpgFYIYhwu1tJfGzGA9gVzrpVF7VohEgbNs0H5KNLpOiq2SyjS6ypzw69KSEbCnWqhO6U4S1gdw3VSX1mYS8UkypEqWxdITGQKxTTUZyR4WsvzqXBvJYF4oySbX+Q2T185EnGm6NyuBjgikszDCHjQUcuPDYxct/y2IPzw0+9BiXXY/TNl8ON/nM4g4=)
   last-modified (1567344437185)
 }
+train (t-oqeyjcye4t8h2r0q4jbovy897) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (500)[v:UpperBound] 이하 레시피 보여줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574164029635)
+}
 train (t-or9muipgr136x55mpeqixkcke) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (김치)[v:Ingredient]랑 (가쓰오부시)[v:Ingredient]랑 (쑥갓)[v:Ingredient]이랑 (쇠고기)[v:Ingredient]로 요리할 수 있는 (레시피)[v:RecipeKeyword:레시피] 알려줘")
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)

@@ -23,6 +23,11 @@ train (t-za1b6uy0gz5eqhkx83sdq83v4) {
   plan (3ZBLDoJAEERLEZHPJUxc4IbEeAONC+NODkBwaKAXgBmGCLd3lMTPYjyAXelFV17VohEgbNs0H5KNKpOiqzjZRhfuKY8OPUnBLcVKdkJ1krA2kPumqlidSfCVYkqlKI2lIzQGYpUqMpI7Krj+6lwayGNdSMqYavWHyOrnI0803BqZwccEU1iYwcYcDhZw4WkXL/8tS3t4bvChx7jadXTe1nlPX75mcQc=)
   last-modified (1567343296909)
 }
+train (t-zcau3ur7wyiekr1ouueuo0wu2) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (600)[v:UpperBound] 이하 알려줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574164978812)
+}
 train (t-zcnrtgvldjnd7ayf3yvjlc0ls) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (녹차분말)[v:Ingredient]이랑 (돼지등갈비)[v:Ingredient]를 이용한 (레시피)[v:RecipeKeyword:레시피] 검색해줘")
   plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)

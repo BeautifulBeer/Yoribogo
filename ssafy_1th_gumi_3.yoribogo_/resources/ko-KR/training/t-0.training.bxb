@@ -109,9 +109,9 @@ train (t-0jbjleajnpwqneh9or7ky5zrb) {
   last-modified (1567345855216)
 }
 train (t-0jf2438qjsmnowjsrkq14fhg7) {
-  utterance ("[g:CommitProcessShow,r:UpdateProcessShow] (뒤로)[v:LayoutType:이전]")
-  plan (Y2BjUCkuTkyrjDcsyYhPL83NjDfWS8qsSE3Ti8wvLSlNSg1KLS7NKWHQwKHKOT83N7MkoCg/ObW4ODgjv5xBE4dKqBqIhuCSxJJUnIaGFqQApZENVcSh0iexEujMkMqCVFLsZWVgZGBiYGZgAbIYoGxmIM0AxiAA4rEASQYA)
-  last-modified (1566716069783)
+  utterance ("[g:CommitRecipeSearch,r:UpdateRecipeSearch] (뒤로)[v:LayoutType:이전]")
+  plan (Y2Bj0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSW4DQ0tSAFKoxiqiEOpT2JlfmlJSGVBKgn2sjIwMjAxMDOwAFkMUDYzkGYAYxAA8ViAJAMA)
+  last-modified (1574163488102)
 }
 train (t-0jsg97nd9eabzw2am7w16v001) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (부침유)[v:Ingredient]랑 (양배추)[v:Ingredient] 활용한 (레시피)[v:RecipeKeyword:레시피]")

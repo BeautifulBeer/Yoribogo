@@ -33,6 +33,11 @@ train (t-yglazv7xdhfqwnbzrd5nzntcn) {
   plan (5ZAxDoJAEEW/IiCIhzCx0IbEeAONhbGTAxBcBpgCMMsS4faukhgp1gs4kynmz/u/GCyxaZok6+OdKuK8LTnehzfuKAtPHUnBDUVKtkK1krA1kMe6LFldSfCdIkqkKIyhAzQYIpUoMpIHyrkaZa4M5LnKJaVMlfpPZP3z1xfqH7VMEWCCKSzMYMOBizk8+FhoHZ/Ld1taxXuCUb/K17qrvY5OsfXmad0Cng==)
   last-modified (1567343213530)
 }
+train (t-ygybhba9ayzlpw3yifxvcyad3) {
+  utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch,r:WrapBoundaryOption] (500)[v:UpperBound:500] 칼로리 미만 보여줘")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574165143825)
+}
 train (t-yiwrg820g5klgxt5pkkdeg8jz) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (채를 썬 마늘)[v:Ingredient]을 사용해 만들 수 있는 (요리법)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)
@@ -57,6 +62,11 @@ train (t-ymhqdhy1bjyjfdttchdni48i3) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (숙주나물)[v:Ingredient]이랑 (대하)[v:Ingredient]가 있는데 무슨 (음식)[v:RecipeKeyword:레시피]")
   plan (rY7BCoJAEIZ/U6tDLxF0qIsgvUHRIbrlA8i2jjoHNXZH0rdvSwg6bKdmYOCDb35+LLG1VpVjnkqdV33D+T658UBlchrIaLaUiem19Iaw85jHrmlYrqT5Thkpo2tv6CRND5koIa95oIrbr8y1xzy3laGCqZU/KZuf5S80PjpTYIEAM4SIEGPuCB+O3A3eDKzcviZ2NHkh8AQ=)
   last-modified (1567339907356)
+}
+train (t-yn83gormgwew1nxrw69qfhdmy) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (250)[v:LowerBound] 칼로리 이상 레시피 보여줘")
+  plan (jY6xDoJADIaLgvgaOulCor6Bxs3ERAZHcpwFOsCR0ouw+OwisDBcYpMm/dLvbwpr2DWNyrrkIEWS25KSU5RSi1l0bZE1NRgLWy2WEfYO82LKkuSBmmqMUbEunEdHaQzEogSd5hlzqmY3ty7T2Op1r4VM5XzxyaoePMXdpB7/Vj/phLBxZG7mjTyEIAQPFrAEHwJY9QQz9gYe+1d+P4X9NgD4Ag==)
+  last-modified (1574165101881)
 }
 train (t-ys9ezv314262fmqcf6gyr9vqb) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (새우젓)[v:Ingredient]을 사용해 만들 수 있는 (레시피)[v:RecipeKeyword:레시피]")

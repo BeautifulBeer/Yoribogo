@@ -28,6 +28,11 @@ train (t-c74ozgxxvsord8yhkquq7fkwv) {
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)
   last-modified (1567340518288)
 }
+train (t-c75cyvuah25mwmoaqtkf2x3qa) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (450)[v:LowerBound] 이상 보여줘")
+  plan (jY6xDoJADIaLgvgaOulCor6Bxs3ERAZHcpwFOsCR0ouw+OwisDBcYpMm/dLvbwpr2DWNyrrkIEWS25KSU5RSi1l0bZE1NRgLWy2WEfYO82LKkuSBmmqMUbEunEdHaQzEogSd5hlzqmY3ty7T2Op1r4VM5XzxyaoePMXdpB7/Vj/phLBxZG7mjTyEIAQPFrAEHwJY9QQz9gYe+1d+P4X9NgD4Ag==)
+  last-modified (1574165013363)
+}
 train (t-c7bafpzk0l7tqo2fsbgyqvit0) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (바게트)[v:Ingredient]랑 (새싹채소)[v:Ingredient]랑 (이태리고추)[v:Ingredient]랑 (고추냉이)[v:Ingredient]가 있는데 무슨 (요리)[v:RecipeKeyword:레시피]")
   plan (Y+Bi0CguTkyrjDcsyYhPL83NjDfWS8qsSE3Tc61ILUrOLE4NLikqTS4pLUpl0MSh0jk/NzezJCg1ObMgNTg1sSg5A6ehEEUQDcEliSWpOFU6paZn5qGYqYhDpWdeelFqSmZqXsmgUqKCNwi8UyvL84tSGDgZGBmYGJgZWBhYGdgY2Bk4gCIMcDEIZAbyGcCYBwpBgB0ogtDDzMAAAA==)

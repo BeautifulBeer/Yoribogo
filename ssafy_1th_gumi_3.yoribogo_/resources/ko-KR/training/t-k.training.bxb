@@ -58,6 +58,11 @@ train (t-kmqdl1fgk50zzd1b3rq4g81ld) {
   plan (vY/BCoJQEEVvmVbQTwQtaiNIf1C0iHb5AWLP8TkLNZ4j6d/3VAhavJbNZRZ3OHPhYo1906R5n0RSJLotOTmGD+4oDy8dGcUNxWJaJa0hHBzkuS5LljspflJMqVGFM3SCpodYUiEneSLN1Vfm1kFeK20oY6rkf8juZ78b9a/aZFhhhjk8LOAjwNJ6fC6DPOsw7mbUMIH1vmUDS3vAGw==)
   last-modified (1567343619486)
 }
+train (t-knl6djgunt107807dxojuz4s3) {
+  utterance ("[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] 칼로리 (1000)[v:UpperBound] 이하 알려줄래")
+  plan (jY6xDoJADIaLgvgaOulCIr6BxtlEYhzJcRboAFxKL4HFZxeBheESmzTpl35/U9jCoW1V3qcnKdPCVpSeo4w6zKNbh6ypxUTYarGMcHSY16aqSB6oyWCCinXpPDpJUyARJeg0L1hQvbi5d5mNrd93I9TUzhdfrMzoKe5nNf5b/WQzws6ReRqDPIYgBA9WsAYfAtgMBAv2Rp76V/4whcM2APgC)
+  last-modified (1574165031278)
+}
 train (t-kppsqqdafa4ayytu25zv4kz72) {
   utterance ("[g:CommitRecipeSearch,r:BeginRecipeSearch] (계란 후라이)[v:Ingredient] 활용한 (요리)[v:RecipeKeyword:레시피]")
   plan (fY0xDsIwDEU/pHAPJAZYKiFuAGJAbOQAVUjd1kNSlLiivT0tZWEIliw/yc/fWGMXo6mG4iBNUXeOi2P+4J6q/NJTsBxJS+isdIGwT5jn1jmWO1l+kiYTbJMMnaX5QIsRSponqtn/ZG4S5tXXgUomL9j+fXuj4dWGEisssIRCNhK+rMaJT0+VjTRtFfAG)

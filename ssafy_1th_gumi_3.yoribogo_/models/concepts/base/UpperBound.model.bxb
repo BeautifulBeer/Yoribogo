@@ -1,3 +1,6 @@
 integer (UpperBound) {
+  features {
+    transient
+  }
   description (상한값)
 }
