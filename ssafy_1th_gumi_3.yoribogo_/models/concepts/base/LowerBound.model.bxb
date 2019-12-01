@@ -1,3 +1,6 @@
 integer (LowerBound) {
+  features {
+    transient
+  }
   description (하한값)
 }

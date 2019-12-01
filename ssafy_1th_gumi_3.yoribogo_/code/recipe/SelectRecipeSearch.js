@@ -4,10 +4,10 @@ var console = require('console');
 var fail = require('fail');
 
 module.exports.function = function selectRecipeSearch (recipeBasicStructure, recipeCommitState, $vivContext) {
-  
+
   options = {
     query: {
-      user_id : $vivContext.userId,
+      user_id : $vivContext.sessionId,
       recipe_id : recipeBasicStructure.recipeId,
       cnt : 4
     }
@@ -32,6 +32,6 @@ module.exports.function = function selectRecipeSearch (recipeBasicStructure, rec
     maxPageNumber : 1,
     pageNumber : 1,
     recipesPerPage : 50,
-    layoutType: 'LARGE'
+    layoutType: '리스트원소'
   }
 }

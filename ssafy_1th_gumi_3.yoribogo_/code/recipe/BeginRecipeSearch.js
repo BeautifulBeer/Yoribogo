@@ -3,15 +3,17 @@
   var fail = require('fail');
 
   // 전체 요리 데이터베이스에서 검색
-  module.exports.function = function BeginRecipeSearch (ingredients, recipeName, recipeKeyword, searchKeyword, boundOption) {
+  module.exports.function = function BeginRecipeSearch (ingredients, recipeName, recipeKeyword, boundOption) {
+
     var db;
     let searchType = "INGREDIENT";
+    
     if(recipeName != undefined && recipeName != ""){
       db = tool.searchRecipeByName(recipeName);
       searchType = "RECIPENAME";
     }else if(boundOption != undefined && boundOption != ""){
       db = tool.getRecipeByCalories(boundOption);
-      searchType = "CALORY";                   
+      searchType = "CALORY";
     }else{
       recipeName = " ";
       db = tool.GetRecipesByMaterials(ingredients);  
@@ -30,6 +32,6 @@
       maxPageNumber : 1,
       pageNumber : 1,
       recipesPerPage : 50,
-      layoutType : 'LARGE'
+      layoutType : '리스트'
     }
   }

@@ -22,11 +22,11 @@ module.exports.function = function UpdateRecipeSearch (recipeCommitState, addIng
     }
   }
   if(layoutType != undefined && layoutType != ""){
-    if(layoutType == '다음'){
+    if(layoutType == "다음"){
       if(recipeCommitState.maxPageNumber > recipeCommitState.pageNumber){ 
         recipeCommitState.pageNumber++;
       }
-    }else if(layoutType == '이전'){
+    }else if(layoutType == "이전"){
       if(recipeCommitState.pageNumber > 0){
         recipeCommitState.pageNumber--;  
       }

@@ -21,11 +21,6 @@ action (BeginRecipeSearch) {
       type(RecipeKeyword)
       min (Optional) max (One)
     }
-    
-    input(searchKeyword){
-      type(SearchKeyword)
-      min (Required) max (One)
-    }
   }
   output (RecipeCommitState){
     throws{
@@ -39,7 +34,9 @@ action (BeginRecipeSearch) {
       unknown-error{
         on-catch{
           halt{
-            dialog("예기치 못한 오류가 발생했습니다.")
+            dialog{
+              template-macro (RECIPE_ERROR)
+            }
           }
         }
       }

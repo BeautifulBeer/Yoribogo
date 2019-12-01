@@ -22,7 +22,7 @@ action (SelectRecipeSearch) {
         on-catch{
           halt{
             dialog{
-              template-macro (UNKNOWN_ERROR)
+              template-macro (SYSTEM_ERROR)
             }
           }
         }

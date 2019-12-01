@@ -24,10 +24,10 @@ action (GetRecipeByCalories) {
       min (Optional) max (One)
     }
 
-    input(searchKeyword){
-      type(SearchKeyword)
-      min (Required) max (One)
-    }
+    // input(searchKeyword){
+    //   type(SearchKeyword)
+    //   min (Required) max (One)
+    // }
   }
   output (RecipeBasicStructure){
     throws{
@@ -44,7 +44,7 @@ action (GetRecipeByCalories) {
         on-catch{
           halt{
             dialog{
-              template (UNKNOWN_ERROR)
+              template (RECIPE_ERROR)
             }
           }
         }
