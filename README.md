@@ -13,7 +13,10 @@
 
 "안녕하세요. 개발자에겐 즐거움을, 사용자에겐 편리함을 선물하는 요리보고 팀입니다."
 
+
+
 ## 목차
+
 1. [캡슐구조](#캡슐구조)
 2. [캡슐설정](#캡슐설정)
 3. [사전(Dictionary)](#사전)
@@ -25,8 +28,13 @@
 9. [외부 어플리케이션 실행](#외부-어플리케이션-실행)
 10. [부록](#부록)  
 
+
+
 ## 캡슐구조
+
    캡슐은 크게 assets, code, models, resources 부분으로 나뉘어 있는데 assets 같은 경우에는 정적으로 사용되는 파일(이미지)이 저장되어있고, code 부분은 .js 파일들을 각 기능에 맞게 폴더를 만들어서 구성하였습니다. 이미지 파일만 있는 assets과 .js 파일이 있는 code을 제외하고 나머지 폴더들의 구조에 대해서 설명을 드리겠습니다.  
+
+
 
 ### models
 
@@ -39,7 +47,7 @@
 
 `actions` 폴더에는 각 기능에 필요한 액션들과  `concepts` 폴더에는 액션에서 사용될 모델 타입들로 구성되어 있습니다. `base` 폴더에는 범용성이 높거나 독립적인 파일들이 있고 나머지 폴더들은 이름에 연관성이 있는 파일들을 포함해 만들었습니다. 
 
-![](./img/exercise.jpg)
+![](./docs/img/exercise.jpg)
 
 concepts 같은 경우에는 structure라는 다수의 model을 포함하는 타입이 존재합니다. 요리보고에서는 primitive type과 structure를 구분하기 위해 위와 같이 structure 라는 폴더를 만들어서 해당 폴더 안에 생성하여 관리를 용이하게 하였습니다.
 
@@ -50,13 +58,15 @@ concepts 같은 경우에는 structure라는 다수의 model을 포함하는 타
 > 디렉토리 상세
 
 - base : endpoints.bxb
-- ko-KR : training, /dialogs, /layouts, /transactions, /views, /voca, Yoribogo.hints.bxb, capsule-info.bxb, capsule.properties
+- ko-KR : training, /dialogs, /layouts, ~~/transactions~~, /views, /voca, Yoribogo.hints.bxb, capsule-info.bxb, ~~capsule.properties~~
 
 > 설명
 
 `ko-KR` 폴더는 한국어와 관련된 resources를 모아놓은 폴더입니다. 마켓 플레이스에서 해당 캡슐의 간단한 사용 방법을 알려주는 `.hints.bxb` 와 발화를 학습하는 `training` 파일,  특정 발화에 대한 결과 화면을 구성하는 파일들을 모아 놓은 `layouts` , `views` 폴더, 동의어 처리나 특정 단어를 빅스비에게 학습시키기 위한 단어파일을 모아놓은 `voca` 폴더 등으로 구성을 하였습니다.
 
 `capsule.properties` 은 HTTP 요청에 필요한 서버의 주소, API 키값이나 권한 범위 등 캡슐을 구성할 때 필요한 값들을 저장할 수 있습니다. 이외의 파일들에 대해서는 [캡슐설정](#캡슐설정) 부분에서 다시 언급하도록 하겠습니다.
+
+
 
 ## 캡슐설정
 
@@ -75,7 +85,7 @@ concepts 같은 경우에는 structure라는 다수의 model을 포함하는 타
 
 `hints.bxb` 파일 같은 경우에는 캡슐이 실제 마켓 플레이스에 업로드 되었을 때 사용자들에게 대표발화 예제로 보여줄 발화 리스트입니다. (제일 먼저 사용할 수 있는 발화들이기 때문에 충분한 테스트를 거쳐야 합니다.) 위와 같이 입력한 후 캡슐이 마켓 플레이스에 등록된다면 아래와 같이 확인하실 수 있습니다.
 
-![](./img/hint.jpg)
+![](./docs/img/hint.jpg)
 
 `utterance(...)` 안에 넣은 발화 앞에 ***"요리보고에서, "*** 라는 문장이 들어간 것을 보실 수 있는데, 해당 부분은 캡슐 이름으로 `capsule.bxb` 에 입력한 별칭에 따라 자동으로 들어가게 됩니다.
 
@@ -97,7 +107,9 @@ capsule-info {
 
 
 
-### capsule.properties
+### ~~capsule.properties~~
+
+*현재는 https://bixbydevelopers.com/ 에서 Teams & Capsules -> 해당 캡슐에 들어가시면 **Config&Secrets** 이라는 섹션에서 아래의 properties를 설정하실 수 있습니다.* (2019. 11)
 
 캡슐 개발 도중 HTTP 요청을 하는 메소드가 많아지고 여러 파일로 나누어지는 경우 긴 웹서버 주소를 번거롭게 계속 입력해야 합니다. 거기다가 외부 API까지 사용을 하게 되면 key값을 어디에 저장할지도 고민하게 됩니다. 이럴 때 전역적으로 사용할 수 있도록 선언해주는 파일이 있는데, 그게 바로 `capsule.properties` 입니다.
 
@@ -142,12 +154,22 @@ capsule {
   targets {
     target (bixby-mobile-ko-KR)
   }
-   
+    
   # 해당 캡슐이 어떤 범주에 들어가는지 입력합니다.
   store-sections{
     section (FoodAndDrink)
   }
-    
+
+  # 캡슐을 실행할 때, 어떤 옵션을 줄 것인지 설정합니다. (2019.11)
+  runtime-flags {
+    use-input-views-for-selection-list-detail
+    concepts-inherit-super-type-features
+    modern-default-view-behavior
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+    no-filtering-with-validation
+  }
+   
   ...
 
   # 빅스비에서 지원하는 캡슐 라이브러리를 사용하고 싶으시면
@@ -162,6 +184,8 @@ capsule {
 ```
 
 `id`는 `Bixby Developer Center`에서 설정한 팀이름이 들어가게 됩니다. 버전 부분은 위에 주석으로 나와 있지만 한 번 올라간 버전으로는 다시 등록할 수 없습니다. `store-sections` 부분은 개발 중인 캡슐의 카테고리에 맞게 선택하시면 되는데 종류는 아래와 같습니다.
+
+
 
 > 상점 섹션 종류
 
@@ -207,7 +231,7 @@ capsule {
 
 > 관련 파일
 
-- ko-KR/voca : AddKeyword.vocab.bxb, RemoveKeyword.vocab.bxb, SearchKeyword.vocab.bxb, LowerBoundKeyword.vocab.bxb, UpperBoundKeyword.vocab.bxb, SortingOption.vocab.bxb, RecipeKeyword.vocab.bxb
+- ko-KR/voca : AddKeyword.vocab.bxb, RemoveKeyword.vocab.bxb, ~~SearchKeyword.vocab.bxb, LowerBoundKeyword.vocab.bxb, UpperBoundKeyword.vocab.bxb, SortingOption.vocab.bxb,~~ RecipeKeyword.vocab.bxb (2019. 11)
 
 `enum`을 사용하는 한 가지 예시를 들어보자면 ***국내 프로야구팀***으로 들 수 있습니다. 바뀔 가능성이 작으며 명확하고 명시적으로 인지가 되는 데이터의 집합일 때, `enum`으로 처리를 하는 것이 좋습니다.
 
@@ -246,6 +270,8 @@ vocab(AddKeyword) {
 `name`의 경우 enum과는 다르게 Vocab이 반드시 필요하지 않으나, Vocab에 추가하는 경우 빅스비에게 추가적인 hint를 줌으로써 태깅 성능을 높일 수는 있습니다. 
 
 요리보고처럼 `음식`을 예로 들자면 `치킨, 짜장면, 햄버거` 등 수많은 음식 데이터가 들어갈 수 있을 텐데요. 과연 지구상에 존재하는 모든 음식의 이름에 대해서 발화를 하나하나 입력할 수 있을까요? 불가능합니다. 그래서 해결 방법으로 `out of vocab training` 이라는 기법을 사용할 수 있습니다.
+
+
 
 #### Ingredient.vocab.bxb
 
@@ -291,13 +317,21 @@ vocab(Ingredient){
 
 
 
-> 패턴 - [재료]랑 [재료] [레시피] [보여줘]
+> 패턴 - [재료]랑 [재료] [레시피] 보여줘
 
- **(돼지고기)[v:Ingredient]** 랑 **(김치)[v:Ingredeint]** 랑 **(대파)[v:Ingredient]** **(레시피)[v:RecipeKeyword:레시피]** **(보여줘)[v:SearchKeyword:검색]**  
+ **(돼지고기)[v:Ingredient]** 랑 **(김치)[v:Ingredeint]** 랑 **(대파)[v:Ingredient]** **(레시피)[v:RecipeKeyword:레시피]** 보여줘  
 
   
 
-요리보고에서 `SearchKeyword`와 `RecipeKeyword`를 따로 `enum` 으로 만들어 발화를 구성한 이유는 **중복발화를 제거**하기 위함입니다. ***"보여줘"*** , ***"조회해줘"*** , ***"검색해"*** 발화들의 의미는 크게 다르지 않습니다. 모두 똑같은 결과를 내놓는데 굳이 각 단어에 대한 발화를 세 개나 만들 필요가 있을까요?  마찬가지로 ***"하는법"***, ***"만드는 법"*** 모두 "***레시피"*** 와 의미가 동일합니다. 그래서 저희는 이런 부분을 `enum` 으로 처리하여 `vocab(...)` 에 정리를 하였습니다. 이 패턴은 하나의 발화로 동일한 문장 구조 내 유의어 처리를 가능하게 합니다.
+요리보고에서 `RecipeKeyword`를 따로 `enum` 으로 만들어 발화를 구성한 이유는 **중복발화를 제거**하기 위함입니다. 모두 똑같은 결과를 내놓는데 굳이 각 단어에 대한 발화를 세 개나 만들 필요가 있을까요?  마찬가지로 ***"하는법"***, ***"만드는 법"*** 모두 "***레시피"*** 와 의미가 동일합니다. 그래서 저희는 이런 부분을 `enum` 으로 처리하여 `vocab(...)` 에 정리를 하였습니다. 이 패턴은 하나의 발화로 동일한 문장 구조 내 유의어 처리를 가능하게 합니다.
+
+
+
+#### 수정사항
+
+##### SearchKeyword 태깅 삭제
+
+빅스비 측에서 피드백을 받은 결과, **보여줘/알려줘 와 같은 단어들은 태깅을 하지 않아도** 빅스비 내부에서 인식을 한다고 합니다. 다만, 가르쳐줘 등 인식이 되지 않는 단어같은 경우는 **발화를 통해 학습하는 것을 권장**한다고 합니다.
 
 
 
@@ -315,9 +349,9 @@ vocab(Ingredient){
 
 
 
-> 패턴 - [레시피명] [요리법] [보여줘]
+> 패턴 - [레시피명] [요리법] 보여줘
 
- **[g:CommitRecipeSearch,r:BeginRecipeSearch] (삼계탕)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피] (검색해줘)[v:SearchKeyword:검색]**
+ **[g:CommitRecipeSearch,r:BeginRecipeSearch] (삼계탕)[v:RecipeName] (레시피)[v:RecipeKeyword:레시피]** 검색해줘
 
 
 
@@ -346,13 +380,21 @@ vocab(Ingredient){
 
 
 
-> 패턴 - [200] 칼로리 [이상] [300] 칼로리 [이하] {레시피} [보여줘]
+> 패턴 - [200] 칼로리 이상 [300] 칼로리 이하 {레시피} 보여줘
 
-**[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (300)[v:LowerBound] 칼로리 (이상)[v:LowerBoundKeyword:이상] (700)[v:UpperBound] 칼로리 (미만)[v:UpperBoundKeyword:이하] (레시피)[v:RecipeKeyword:레시피] (찾아줘)[v:SearchKeyword:검색]**
+[g:CommitRecipeSearch,r:WrapBoundaryOption,r:BeginRecipeSearch] (300)[v:LowerBound] 칼로리 이상 (700)[v:UpperBound] 칼로리 미만 (레시피)[v:RecipeKeyword:레시피] 찾아줘
 
 
 
 칼로리 검색은 입력패턴이 다양하기 때문에, 이상/이하가 없는 문장도 발화로 넣어서 다양한 시나리오를 커버하도록 했습니다.
+
+
+
+#### 수정사항
+
+##### LowerBoundKeyword, UpperBoundKeyword 태깅 삭제
+
+SearchKeyword와 마찬가지로, 해당 단어도 이렇게 Enum 타입으로 처리하는 것보다 발화로 처리하는 것을 권장한다고 하여 삭제했습니다.
 
 
 
@@ -397,6 +439,8 @@ vocab(Ingredient){
 ## 트랜잭션
 
 보통 검색은 트랜잭션 타입이 아닌 검색 타입으로 구현하지만, 요리보고에서는 레시피 검색 도중 이전 상태를 함께 활용하여 현재 입력된 발화(명령)를 처리하기 위해 트랜잭션을 사용하였습니다.  현재 `재료명을 이용한 레시피 검색` 기능에서 검색 조건으로 재료를 추가하거나 제거할 때와 `선택된 레시피에 대한 요리과정 화면 출력` 기능에서 각 요리과정을 단계적으로 보여줄 때 활용하고 있습니다. 
+
+###### ※ 현재는 기본 검색 기능으로도 해당 기능을 구현할 수 있습니다. 
 
 
 
