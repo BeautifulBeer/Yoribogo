@@ -13,7 +13,10 @@
 
 "안녕하세요. 개발자에겐 즐거움을, 사용자에겐 편리함을 선물하는 요리보고 팀입니다."
 
+
+
 ## 목차
+
 1. [캡슐구조](#캡슐구조)
 2. [캡슐설정](#캡슐설정)
 3. [사전(Dictionary)](#사전)
@@ -25,8 +28,13 @@
 9. [외부 어플리케이션 실행](#외부-어플리케이션-실행)
 10. [부록](#부록)  
 
+
+
 ## 캡슐구조
+
    캡슐은 크게 assets, code, models, resources 부분으로 나뉘어 있는데 assets 같은 경우에는 정적으로 사용되는 파일(이미지)이 저장되어있고, code 부분은 .js 파일들을 각 기능에 맞게 폴더를 만들어서 구성하였습니다. 이미지 파일만 있는 assets과 .js 파일이 있는 code을 제외하고 나머지 폴더들의 구조에 대해서 설명을 드리겠습니다.  
+
+
 
 ### models
 
@@ -50,13 +58,15 @@ concepts 같은 경우에는 structure라는 다수의 model을 포함하는 타
 > 디렉토리 상세
 
 - base : endpoints.bxb
-- ko-KR : training, /dialogs, /layouts, /transactions, /views, /voca, Yoribogo.hints.bxb, capsule-info.bxb, ~~capsule.properties~~
+- ko-KR : training, /dialogs, /layouts, ~~/transactions~~, /views, /voca, Yoribogo.hints.bxb, capsule-info.bxb, ~~capsule.properties~~
 
 > 설명
 
 `ko-KR` 폴더는 한국어와 관련된 resources를 모아놓은 폴더입니다. 마켓 플레이스에서 해당 캡슐의 간단한 사용 방법을 알려주는 `.hints.bxb` 와 발화를 학습하는 `training` 파일,  특정 발화에 대한 결과 화면을 구성하는 파일들을 모아 놓은 `layouts` , `views` 폴더, 동의어 처리나 특정 단어를 빅스비에게 학습시키기 위한 단어파일을 모아놓은 `voca` 폴더 등으로 구성을 하였습니다.
 
 `capsule.properties` 은 HTTP 요청에 필요한 서버의 주소, API 키값이나 권한 범위 등 캡슐을 구성할 때 필요한 값들을 저장할 수 있습니다. 이외의 파일들에 대해서는 [캡슐설정](#캡슐설정) 부분에서 다시 언급하도록 하겠습니다.
+
+
 
 ## 캡슐설정
 
@@ -175,6 +185,8 @@ capsule {
 
 `id`는 `Bixby Developer Center`에서 설정한 팀이름이 들어가게 됩니다. 버전 부분은 위에 주석으로 나와 있지만 한 번 올라간 버전으로는 다시 등록할 수 없습니다. `store-sections` 부분은 개발 중인 캡슐의 카테고리에 맞게 선택하시면 되는데 종류는 아래와 같습니다.
 
+
+
 > 상점 섹션 종류
 
 - `ArtAndLifestyle`
@@ -258,6 +270,8 @@ vocab(AddKeyword) {
 `name`의 경우 enum과는 다르게 Vocab이 반드시 필요하지 않으나, Vocab에 추가하는 경우 빅스비에게 추가적인 hint를 줌으로써 태깅 성능을 높일 수는 있습니다. 
 
 요리보고처럼 `음식`을 예로 들자면 `치킨, 짜장면, 햄버거` 등 수많은 음식 데이터가 들어갈 수 있을 텐데요. 과연 지구상에 존재하는 모든 음식의 이름에 대해서 발화를 하나하나 입력할 수 있을까요? 불가능합니다. 그래서 해결 방법으로 `out of vocab training` 이라는 기법을 사용할 수 있습니다.
+
+
 
 #### Ingredient.vocab.bxb
 
