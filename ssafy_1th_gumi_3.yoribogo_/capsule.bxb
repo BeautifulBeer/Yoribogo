@@ -1,4 +1,4 @@
-ㄹcapsule {
+capsule {
   id (ssafy_1th_gumi_3.bixef)
   version (2.5.7)
   format (3)
@@ -8,7 +8,11 @@
   store-sections{
     section (FoodAndDrink)
   }
-  
+  store-countries{
+    only{
+      allow(KR)
+    }
+  }
   runtime-flags {
     use-input-views-for-selection-list-detail
     concepts-inherit-super-type-features
